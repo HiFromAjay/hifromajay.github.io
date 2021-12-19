@@ -1,11 +1,13 @@
 
 ### [Home](index.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Publications](publications.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Services](services.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Teaching](teaching.md)
 
-<pre>
+
+<script src="https://bibbase.org/show?bib=https://dblp.org/pid/137/7223.bib&jsonp=1"></script>
+
 <b>Annotation practices in Android apps [PDF]</b>
-Ajay Kumar Jha, Sarah Nadi
-In Proceedings of 20th IEEE International Working Conference on Source Code Analysis & Manipulation (SCAM), 2020.
-</pre>
+<br>Ajay Kumar Jha, Sarah Nadi
+<br>In Proceedings of 20th IEEE International Working Conference on Source Code Analysis & Manipulation (SCAM), 2020.
+
 
 <pre>
 <b>A Log-Based Testing Approach for Detecting Faults Caused by Incorrect Assumptions About the Environment [PDF]</b>

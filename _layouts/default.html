@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US"}}">
+<html lang="{{ site.lang | default: " en-US xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html"/>"}}">
     <head>
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -29,10 +29,18 @@
 
             {% if site.github.is_user_page %}
             <p>
-                Computing Science Center (CSC), room 2-59B, University of Alberta, Edmonton, Canada.
-                <br> <b>Email:</b>ajaykum1@ualberta.ca
+                <br>Postdoctoral Researcher
+                <br>Computing Science Center (CSC), room 2-59B, University of Alberta, Edmonton, Canada.
+                <br> <b>Email:</b> ajaykum1@ualberta.ca
             </p>
-            <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
+            <p>
+                <br>My work can also be accessed through the following links:
+                <br><a href="https://scholar.google.com/citations?user=JGx-ivgAAAAJ&hl=en&oi=sra">Google Scholar</a>
+                <br><a href="https://dblp.uni-trier.de/pid/137/7223.html">DBLP</a>
+                <br><a href="{{ site.github.owner_url }}">GitHub</a>
+                <br><a href="https://www.researchgate.net/profile/Ajay-Jha-9">ResearchGate</a>
+            </p>
+
             {% endif %}
 
             {% if site.show_downloads %}

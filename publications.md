@@ -17,7 +17,7 @@ IEICE Transactions on Information and Systems. 103(1), pp. 170-173. 2020.
 <b>An empirical study of configuration changes and adoption in Android apps [PDF]</b>
 Ajay Kumar Jha, Sunghee Lee, Woo Jin Lee
 Journal of Systems and Software (JSS). 156, pp. 164-180. 2019.
-</pre>>
+</pre>
 
 <pre>
 <b>Characterizing Android-specific crash bugs [PDF]</b>

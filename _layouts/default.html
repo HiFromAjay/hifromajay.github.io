@@ -29,17 +29,15 @@
 
             {% if site.github.is_user_page %}
             <p>
-                <br>Postdoctoral Researcher
-                <br>Computing Science Center (CSC)
-                <br>room 2-59B, University of Alberta
-                <br>Edmonton, Canada.
-                <br><b>Email:</b> ajaykum1@ualberta.ca
+                Computing Science Center (CSC), room 2-59B, University of Alberta, Edmonton, Canada.
+                <br> <b>Email:</b>ajaykum1@ualberta.ca
             </p>
+            <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
             {% endif %}
 
             {% if site.show_downloads %}
             <ul class="downloads">
-                <li><a href="https://scholar.google.com/citations?user=JGx-ivgAAAAJ&hl=en&oi=sra">Google Scholar</a></li>
+                <li><a href="{{ site.github.zip_url }}">Google Scholar</a></li>
                 <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
                 <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
             </ul>

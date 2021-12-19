@@ -3,7 +3,7 @@
 
 
 
-><b>Annotation practices in Android apps [PDF](#)</b>
+>[Annotation practices in Android apps](#)
 <br>Ajay Kumar Jha, Sarah Nadi
 <br>In Proceedings of 20th IEEE International Working Conference on Source Code Analysis & Manipulation (SCAM), 2020.
 

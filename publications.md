@@ -2,9 +2,8 @@
 ### [Home](index.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Publications](publications.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Services](services.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Teaching](teaching.md)
 
 
-<script src="https://bibbase.org/show?bib=https://dblp.org/pid/137/7223.bib&jsonp=1"></script>
 
-<b>Annotation practices in Android apps [PDF]</b>
+><b>Annotation practices in Android apps [PDF]</b>
 <br>Ajay Kumar Jha, Sarah Nadi
 <br>In Proceedings of 20th IEEE International Working Conference on Source Code Analysis & Manipulation (SCAM), 2020.
 

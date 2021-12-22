@@ -2,7 +2,7 @@
 ### [Home](index.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Publications](publications.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Services](services.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Teaching](teaching.md)
 
 
-#### :shipit: PC Member:
+#### 🤠 PC Member:
 - <b>MSR</b>: International Conference on Mining Software Repositories - 2021 (Research track), 2022 (Research track)
 - <b>SANER</b>: International Conference on Software Analysis, Evolution and Reengineering - 2021 (ERA track), 2022 (ERA track)
 - <b>ESEC/FSE</b>: Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering - 2021 (Artifact track)
@@ -10,11 +10,11 @@
 - <b>MobileSoft</b>: International Conference on Mobile Software Engineering and Systems - 2022 (Research track) 
 
 
-#### :shipit: Reviewer:
+#### 🤠 Reviewer:
 - <b>TSE</b>: IEEE Transactions on Software Engineering - 2021
 - <b>EMSE</b>: Empirical Software Engineering - 2021
 - <b>JSPE</b>: Journal of Software: Practice and Experience - 2020
 
 
-#### :shipit: Sub-reviewer:
+#### 🤠 Sub-reviewer:
 - <b>TSE</b>: IEEE Transactions on Software Engineering - 2020

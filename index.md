@@ -7,7 +7,7 @@
  under the supervision of Prof. Woo Jin Lee. Before joining my Master's program, I worked in the software industry for more than 5 years.
  My main research interest is software engineering, with a special interest in mobile apps. 
  Specifically, I am interested in software testing, program analysis, empirical software engineering, and mining software repository. 
- You can find more information about me in my <a href="doc/CV_Ajay.pdf" target="_blank">CV</a>.</div>
+ You can find more information about me in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a>.</div>
  
  <br>
  <h4>Selected Publications</h4>

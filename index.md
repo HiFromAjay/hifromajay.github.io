@@ -17,23 +17,23 @@
  <br>
  <b>Selected Publications [</b><a href="publications.md">Full List</a><b>]:</b> 
  
- <a href="papers/jss19.pdf" target="_blank">An empirical study of configuration changes and adoption in Android apps</a>
+ An empirical study of configuration changes and adoption in Android apps [<a href="papers/jss19.pdf" target="_blank">Paper</a>]
  <br>Ajay Kumar Jha, Sunghee Lee, Woo Jin Lee
  <br>Journal of Systems and Software (JSS). 156, pp. 164-180. 2019.
  
- <a href="papers/mobilesoft19.pdf" target="_blank">Characterizing Android-specific crash bugs</a>
+ Characterizing Android-specific crash bugs [<a href="papers/mobilesoft19.pdf" target="_blank">Paper</a>]
  <br>Ajay Kumar Jha, Sunghee Lee, Woo Jin Lee
  <br>In Proc. of the 6th IEEE/ACM International Conference on Mobile Software Engineering and Systems (MobileSoft), pp. 111-122. 2019.
  
- <a href="papers/jss18.pdf" target="_blank">An empirical study of collaborative model and its security risk in Android</a>
+ An empirical study of collaborative model and its security risk in Android [<a href="papers/jss18.pdf" target="_blank">Paper</a>]
  <br>Ajay Kumar Jha, Woo Jin Lee
  <br>Journal of Systems and Software (JSS). 137, pp. 550-562. 2018.
  
- <a href="papers/msr17.pdf" target="_blank">Developer mistakes in writing Android manifests: An empirical study of configuration errors</a>
+ Developer mistakes in writing Android manifests: An empirical study of configuration errors [<a href="papers/msr17.pdf" target="_blank">Paper</a>]
  <br>Ajay Kumar Jha, Sunghee Lee, Woo Jin Lee
  <br>In Proc. of the 14th International Conference on Mining Software Repositories (MSR), pp. 25-36. IEEE Press, 2017.
  
- <a href="papers/mobilesoft15.pdf" target="_blank">Modeling and test case generation of inter-component communication in android</a>; <a href="papers/mobilesoft15ext.pdf" target="_blank">extended Version</a>
+ Modeling and test case generation of inter-component communication in android [<a href="papers/mobilesoft15.pdf" target="_blank">Paper</a>, <a href="papers/mobilesoft15ext.pdf" target="_blank">Extended Version</a>]
  <br>Ajay Kumar Jha, Sunghee Lee, Woo Jin Lee
  <br>In Proc. of the 2nd ACM International Conference on Mobile Software Engineering and Systems (MobileSoft), pp. 113-116. 2015.
  

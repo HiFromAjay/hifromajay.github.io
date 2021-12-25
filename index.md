@@ -8,13 +8,14 @@
  as a programmer, project manager, and business development manager.
  <br>
  <br>
- <b>Research Interests: </b>My main research interest is software engineering, with a special interest in mobile apps. 
+ <b>Research Interest: </b>My main research interest is software engineering, with a special interest in mobile apps. 
  Specifically, I am interested in software testing, program analysis, empirical software engineering, and mining software repository. 
  <br>
  <br>
  You can find more information about me in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a>.</div>
  
- <h4>Selected Publications</h4>
+ <br>
+ <h4>Selected Publications</h4> 
  
  <a href="papers/jss19.pdf" target="_blank">An empirical study of configuration changes and adoption in Android apps</a>
  <br>Ajay Kumar Jha, Sunghee Lee, Woo Jin Lee
@@ -22,7 +23,7 @@
  
  <a href="papers/mobilesoft19.pdf" target="_blank">Characterizing Android-specific crash bugs</a>
  <br>Ajay Kumar Jha, Sunghee Lee, Woo Jin Lee
- <br>In Proc. of the 6th IEEE/ACM International Conference on Mobile Software Engineering and Systems (MobileSoft), pp. 111-122. IEEE Press, 2019.
+ <br>In Proc. of the 6th IEEE/ACM International Conference on Mobile Software Engineering and Systems (MobileSoft), pp. 111-122. 2019.
  
  <a href="papers/jss18.pdf" target="_blank">An empirical study of collaborative model and its security risk in Android</a>
  <br>Ajay Kumar Jha, Woo Jin Lee
@@ -34,7 +35,7 @@
  
  <a href="papers/mobilesoft15.pdf" target="_blank">Modeling and test case generation of inter-component communication in android</a>; <a href="papers/mobilesoft15ext.pdf" target="_blank">extended Version</a>
  <br>Ajay Kumar Jha, Sunghee Lee, Woo Jin Lee
- <br>In Proc. of the 2nd ACM International Conference on Mobile Software Engineering and Systems (MobileSoft), pp. 113-116. IEEE Press, 2015.
+ <br>In Proc. of the 2nd ACM International Conference on Mobile Software Engineering and Systems (MobileSoft), pp. 113-116. 2015.
  
  
  

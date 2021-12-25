@@ -1,5 +1,5 @@
 
-### [Publications](publications.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Services](services.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Teaching](teaching.md)
+### [Publications](publications.md) &nbsp;&nbsp;|&nbsp;&nbsp; [Services](services.md) <!--&nbsp;&nbsp;|&nbsp;&nbsp; [Teaching](teaching.md)-->
 <div style="text-align: justify"> I am currently working as a Postdoctoral Researcher at the University of Alberta in the
  <a href="https://sarahnadi.org/smr/" target="_blank">SMR lab</a> led by Prof. Sarah Nadi. Before that, I worked as a 
  Postdoctoral Researcher for 3 years at Kyungpook National University in <a href="http://selab.knu.ac.kr/dokuwiki/doku.php" target="_blank">ESE Lab</a> 

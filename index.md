@@ -15,8 +15,8 @@
  You can find more information about me in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a>.</div>
  
  <br>
- <b>Selected Publications [</b><a href="publications.md">Full List</a><b>]:</b> 
- 
+ <b>Selected Publications [</b><a href="publications.md">Full List</a><b>]:</b>
+  
  An empirical study of configuration changes and adoption in Android apps [<a href="papers/jss19.pdf" target="_blank">Paper</a>]
  <br>Ajay Kumar Jha, Sunghee Lee, Woo Jin Lee
  <br>Journal of Systems and Software (JSS). 156, pp. 164-180. 2019.

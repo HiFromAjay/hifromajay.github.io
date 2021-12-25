@@ -15,7 +15,7 @@
  You can find more information about me in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a>.</div>
  
  <br>
- <b>Selected Publications </b>[Full List](publications.md)
+ <b>Selected Publications [</b>[Full List](publications.md)<b>]:</b>
   
  An empirical study of configuration changes and adoption in Android apps [<a href="papers/jss19.pdf" target="_blank">Paper</a>]
  <br>Ajay Kumar Jha, Sunghee Lee, Woo Jin Lee

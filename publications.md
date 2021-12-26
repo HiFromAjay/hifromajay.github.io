@@ -1,6 +1,6 @@
 
-[Home](index.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publications](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Services](services.md) <!--&nbsp;&nbsp;|&nbsp;&nbsp; [Teaching](teaching.md)-->
--
+### [Home](index.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publications](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Services](services.md) <!--&nbsp;&nbsp;|&nbsp;&nbsp; [Teaching](teaching.md)-->
+***
 
 <b>Annotation practices in Android apps</b> [<a href="papers/scam20.pdf" target="_blank">Paper</a>]
 <br>Ajay Kumar Jha, Sarah Nadi

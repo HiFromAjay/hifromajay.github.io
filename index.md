@@ -14,7 +14,7 @@
  <br>
  <br>
  <b>Service:</b> I have served or currently serving as a program committee member and reviewer of various esteemed conferences and journals 
- such as MSR, FSE, ASE, SANER, MobileSoft, IEEE TSE, and EMSE. [[Full List](services.md)]
+ such as MSR, FSE, ASE, SANER, MobileSoft, IEEE TSE, and EMSE. <b>[</b>[Full List](services.md)<b>]</b>
  <br>
  <br> 
  You can find more information about me in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a>.</div>

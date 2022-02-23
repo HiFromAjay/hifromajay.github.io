@@ -20,5 +20,5 @@
 - <b>TSE</b>: IEEE Transactions on Software Engineering - 2020
 
 
-#### 🤠 Session Chir:
+#### 🤠 Session Chair:
 - <b>SANER</b>: International Conference on Software Analysis, Evolution and Reengineering - 2022

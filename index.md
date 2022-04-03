@@ -8,7 +8,7 @@
  under the supervision of Prof. Woo Jin Lee. Before joining my Master's program, I worked in the software industry for more than 5 years
  as a programmer, project manager, and business development manager.
  I have served or currently serving as a program committee member and reviewer of various esteemed conferences and journals 
-  such as MSR, FSE, ASE, SANER, MobileSoft, IEEE TSE, and EMSE.
+  such as MSR, FSE, ASE, SANER, MobileSoft, ICSE, TSE, and EMSE.
  <br>
  <br>
  <b>Research Interest:</b> My main research interest is software engineering, with a special interest in mobile apps. 

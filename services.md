@@ -1,5 +1,5 @@
 
-### [Home](index.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) <!--&nbsp;&nbsp;|&nbsp;&nbsp; [Teaching](teaching.md)-->
+### [Home](index.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
 ***
 
 #### 🤠 PC Member:

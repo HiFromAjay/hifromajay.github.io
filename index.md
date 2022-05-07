@@ -1,5 +1,5 @@
 
-### [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
+### [STAM Lab](index.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
 ***
 <div style="text-align: justify"> <b>Bio:</b> I am currently working as a postdoctoral researcher at the University of Alberta in the
  <a href="https://sarahnadi.org/smr/" target="_blank">SMR lab</a> led by Prof. Sarah Nadi. Before that, I worked as a 

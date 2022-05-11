@@ -23,3 +23,4 @@
 
 #### 🤠 Session Chair:
 - <b>SANER</b>: International Conference on Software Analysis, Evolution and Reengineering - 2022
+- <b>MSR</b>: International Conference on Mining Software Repositories - 2022

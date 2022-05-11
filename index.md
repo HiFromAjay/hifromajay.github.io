@@ -12,7 +12,7 @@
  <br>
  <br>
  <b>Research Interest:</b> My main research interest is software engineering, with a special interest in mobile apps. 
- Specifically, I am interested in software testing, program analysis, empirical software engineering, and mining software repository. 
+ Specifically, I am interested in software testing, software maintenance, and mining software repository. 
  <br>
  <br>
  You can find more information about me in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a>.</div>

@@ -2,7 +2,8 @@
 ***
 <style type="text/css">
 .center
-{ text-align:center; }
+{ text-align:center; 
+  display:block;}
 </style>
 
 <img src="assets/img/stam_logo_new.png" alt="The Software Testing And Maintenance (STAM) Lab" width="120" height="50" class="center">

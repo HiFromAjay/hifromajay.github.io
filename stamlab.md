@@ -16,6 +16,8 @@
 <img src="assets/img/stam_logo_new.png" alt="The Software Testing And Maintenance (STAM) Lab" width="120" height="50" class="centerImg">
 <p class="center"> The Software Testing And Maintenance (STAM) Lab (coming soon)</p>
 
+<br/>
+<br/>
 
 <h4>🧑‍🎓 Students co-supervision at the University of Alberta with Prof. Sarah Nadi</h4>
 - Masters&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Mansur Gulami</b> (Feb 2022 - current)

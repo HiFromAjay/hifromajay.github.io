@@ -13,7 +13,7 @@
 
 </style>
 
-<img src="assets/img/stam_logo_new.png" alt="The Software Testing And Maintenance (STAM) Lab" width="120" height="50" class="centerImg">
+<img src="assets/img/stam_logo_new.png" alt="The Software Testing And Maintenance (STAM) Lab" width="120" height="45" class="centerImg">
 <p class="center"> The Software Testing And Maintenance (STAM) Lab (coming soon)</p>
 
 <br/>

@@ -11,8 +11,7 @@
   such as MSR, FSE, ASE, SANER, MobileSoft, ICSE, TSE, and EMSE.
  <br>
  <br>
- <b>Research Interest:</b> My main research interest is software engineering, with a special interest in mobile apps. 
- Specifically, I am interested in software testing, software maintenance, and mining software repository. 
+ <b>Research Interest:</b> I am interested in software engineering, specifically software testing and maintenance. 
  <br>
  <br>
  You can find more information about me in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a>.</div>

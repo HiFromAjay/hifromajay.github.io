@@ -14,7 +14,7 @@
  <b>Research Interest:</b> I am interested in software engineering, specifically software testing and maintenance. 
  <br>
  <br>
- You can find more information about me in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a>.</div>
+ You can find more information about me in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a> (Updated June 3, 2022).</div>
  
  <br>
  📚 <b>Selected Publications [</b>[Full List](publications.md)<b>]:</b>

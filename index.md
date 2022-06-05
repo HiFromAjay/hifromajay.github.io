@@ -13,10 +13,11 @@
  <br>
  <b>Research Interest:</b> I am interested in software engineering, specifically software testing and maintenance. 
  <br>
+ <br>
  <ul>
  <li><b><i>Test Recommendation and Reuse:</i></b> Writing tests from scratch is difficult and time-consuming. 
  To ease the process of writing tests, I develop techniques to recommend tests that can be used as a starting point for 
- developers to write tests manually. Furthermore, I develop automated techniques to reuse the recommended tests automatically.</li>
+ developers to write tests manually. Furthermore, I develop tools and techniques to reuse the recommended tests automatically.</li>
  <li><b><i>Test Maintenance:</i></b> Test suite evolution is a natural process for any active software system, 
  mainly due to changes in the production code. However, the maintenance and execution of a large number of tests are 
  resource-intensive and costly. Therefore, I develop techniques to remove obsolete and redundant tests and repair broken tests.</li>

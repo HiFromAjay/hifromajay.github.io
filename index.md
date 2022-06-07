@@ -11,8 +11,8 @@
   such as MSR, FSE, ASE, SANER, MobileSoft, ICSE, TSE, and EMSE.
  <br>
  <br>
- <b>Research Interest:</b> I am interested in software engineering. I specifically work 
- on various research areas in software testing and maintenance, including but not limited to the following research areas. 
+ <b>Research Interest:</b> I am interested in software engineering, specifically software testing and maintenance. 
+ I work on various research areas including but not limited to the following research areas. 
  <br>
  <ul>
  <li><b><i>Test Recommendation and Reuse:</i></b> Writing tests from scratch is difficult and time-consuming. 

@@ -2,9 +2,14 @@
 ### [Students](stamlab.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
 ***
 
+<b>Mining Annotation Usage Rules: A Case Study with MicroProfile</b> [<a href="papers/icsme22.pdf" target="_blank">Paper</a>]
+<br>Batyr Nuryyev, Ajay Kumar Jha, Sarah Nadi, Yee-Kang Chang, Emily Jiang and Vijay Sundaresan
+<br>In Proceedings of 38th IEEE International Conference on Software Maintenance and Evolution (ICSME). 2022. Industry Track.
+
+
 <b>Annotation practices in Android apps</b> [<a href="papers/scam20.pdf" target="_blank">Paper</a>]
 <br>Ajay Kumar Jha, Sarah Nadi
-<br>In Proceedings of 20th IEEE International Working Conference on Source Code Analysis & Manipulation (SCAM), 2020.
+<br>In Proceedings of 20th IEEE International Working Conference on Source Code Analysis & Manipulation (SCAM), pp. 132-142. 2020.
 
 
 <b>A Log-Based Testing Approach for Detecting Faults Caused by Incorrect Assumptions About the Environment</b> [<a href="papers/ieice20.pdf" target="_blank">Paper</a>]

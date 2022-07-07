@@ -15,7 +15,7 @@
 
 <img src="assets/img/stam_logo.png" alt="The Software Testing And Maintenance (STAM) Lab" width="120" height="45" class="centerImg">
 <p class="center"> The Software Testing And Maintenance (STAM) Lab (coming soon)</p>
-<h5>Please contact me for TA/RA positions if you are a student of NDSU.</h5>
+<p class="center"><b>Please contact me for TA/RA positions if you are a student of NDSU.</b></p>
 
 <br/>
 <br/>

@@ -2,6 +2,11 @@
 ### [Students](stamlab.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
 ***
 
+<b>PyMigBench and PyMigTax: A Benchmark and Taxonomy for Python Library Migration</b> [<a href="https://arxiv.org/abs/2207.01124" target="_blank">Paper</a>]
+<br>Mohayeminul Islam, Ajay Kumar Jha, and Sarah Nadi
+<br>arXiv: 2207.01124. 2022.
+
+
 <b>Mining Annotation Usage Rules: A Case Study with MicroProfile</b> [<a href="papers/icsme22.pdf" target="_blank">Paper</a>]
 <br>Batyr Nuryyev, Ajay Kumar Jha, Sarah Nadi, Yee-Kang Chang, Emily Jiang and Vijay Sundaresan
 <br>In Proceedings of 38th IEEE International Conference on Software Maintenance and Evolution (ICSME). 2022. Industry Track.

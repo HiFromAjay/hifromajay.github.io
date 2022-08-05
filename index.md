@@ -1,9 +1,9 @@
 
 ### [Students](stamlab.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
 ***
-<div style="text-align: justify"> <b>Bio:</b> I am currently working as a postdoctoral researcher at the University of Alberta in the
+<div style="text-align: justify"> <b>Bio:</b> I am currently working as a Postdoctoral Researcher at the University of Alberta in the
  <a href="https://sarahnadi.org/smr/" target="_blank">SMR lab</a> led by Prof. Sarah Nadi. Before that, I worked as a 
- postdoctoral researcher for 3 years at Kyungpook National University in the <a href="http://selab.knu.ac.kr/dokuwiki/doku.php" target="_blank">ESE Lab</a> 
+ Postdoctoral Researcher for 3 years at Kyungpook National University in the <a href="http://selab.knu.ac.kr/dokuwiki/doku.php" target="_blank">ESE Lab</a> 
  led by Prof. Woo Jin Lee. I obtained both my Master's degree (2013) and PhD degree (2017) from Kyungpook National University 
  under the supervision of Prof. Woo Jin Lee. Before joining my Master's program, I worked in the software industry for more than 5 years
  as a programmer, project manager, and business development manager.
@@ -12,7 +12,7 @@
  <br>
  <br>
  <b>Research Interest:</b> I am interested in software engineering, specifically software testing and maintenance. 
- I work on various research areas including but not limited to the following research areas. 
+ I work in various research areas including but not limited to the following research areas. 
  <br>
  <ul>
  <li><b><i>Test Recommendation and Reuse:</i></b> Writing tests from scratch is difficult and time-consuming. 

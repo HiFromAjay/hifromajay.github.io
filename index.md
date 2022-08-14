@@ -1,7 +1,7 @@
 
 ### [Students](stamlab.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
 ***
-<div style="text-align: justify"> <b>Bio:</b> I am currently working as a Postdoctoral Researcher at the University of Alberta in the
+<div style="text-align: justify"> <b>Bio:</b> I am currently working as an Assistant Professor at North Dakota State University. Before joining NDSU, I worked as a Postdoctoral Researcher for more than 2 years at the University of Alberta in the
  <a href="https://sarahnadi.org/smr/" target="_blank">SMR lab</a> led by Prof. Sarah Nadi. Before that, I worked as a 
  Postdoctoral Researcher for 3 years at Kyungpook National University in the <a href="http://selab.knu.ac.kr/dokuwiki/doku.php" target="_blank">ESE Lab</a> 
  led by Prof. Woo Jin Lee. I obtained both my Master's degree (2013) and PhD degree (2017) from Kyungpook National University 

@@ -24,5 +24,5 @@
 - Masters&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Mansur Gulami</b> (Feb 2022 - July 2022)
 - Ph.D.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Mohayeminul Islam</b> (Oct 2021 - current)
 - Ugrad RA&nbsp;&nbsp;&nbsp;<b>Xichen Pan</b> (May 2021 – Sep 2021)
-- Masters&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Batyr Nurryev</b> (July 2020 – Nov 2021)
+- Masters&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Batyr Nuryyev</b> (July 2020 – Nov 2021)
 

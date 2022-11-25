@@ -15,12 +15,14 @@
 
 <img src="assets/img/stam_logo.png" alt="The Software Testing And Maintenance (STAM) Lab" width="120" height="45" class="centerImg">
 <p class="center"><b> The Software Testing And Maintenance (STAM) Lab</b></p>
-<p class="center" style="color:green;"><b>Please contact me for RA positions.</b></p>
-
-<br/>
 <br/>
 
-<h4>🧑‍🎓 Student co-supervision at the University of Alberta with Prof. Sarah Nadi</h4>
+<h4>‍🎓Current Ph.D. Students</h4>
+- Amjad Allobadi
+
+<br/>
+
+<h4>‍🎓Student co-supervised at the University of Alberta with Prof. Sarah Nadi</h4>
 - Masters&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Mansur Gulami</b> (Feb 2022 - July 2022)
 - Ph.D.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Mohayeminul Islam</b> (Oct 2021 - current)
 - Ugrad RA&nbsp;&nbsp;&nbsp;<b>Xichen Pan</b> (May 2021 – Sep 2021)

@@ -18,7 +18,7 @@
 <br/>
 
 <h4>‍🎓Current Ph.D. Students</h4>
-- Amjad Allobadi
+- <a href="https://www.amj.dev/" target="_blank">Amjad Allobadi</a>
 
 <br/>
 

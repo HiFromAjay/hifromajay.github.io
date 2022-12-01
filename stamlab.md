@@ -18,14 +18,9 @@
 
 
 <h4>‍🎓 Current Ph.D. Students</h4>
-<table>
-    <tr>
-        <td><img src="assets/img/amjad.jpeg" alt="Amjad_Allobadi" width="120" height="120"></td>        
-    </tr>
-    <tr>
-        <td align="center"><a href="https://www.amj.dev/" target="_blank">Amjad Allobadi</a></td>        
-    </tr>
-</table>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/amjad.jpeg" alt="Amjad_Allobadi" width="120" height="120"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.amj.dev/" target="_blank">Amjad Allobadi</a>
+
 
 
 <h4>‍🎓 Students supervised at the University of Alberta</h4>

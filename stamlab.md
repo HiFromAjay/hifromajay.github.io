@@ -19,10 +19,10 @@
 
 <h4>‍🎓 Current Students</h4>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/amjad.jpeg" alt="Amjad_Allobadi" width="120" height="120">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/img.png" alt="suraj_bhatta" width="120" height="120"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.amj.dev/" target="_blank">Amjad Allobadi, PhD</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hifromajay.github.io/stamlab.html" target="_blank">Suraj Bhatta, MS</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.amj.dev/" target="_blank">Amjad Allobadi, PhD</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hifromajay.github.io/stamlab.html" target="_blank">Suraj Bhatta, MS</a>
 
 
-<h4>‍🎓 Students supervised at the University of Alberta</h4>
+<h4>‍🎓 Students co-supervised at the University of Alberta</h4>
 - Masters&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Mansur Gulami</b> (Feb 2022 - July 2022)
 - Ph.D.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Mohayeminul Islam</b> (Oct 2021 - current)
 - Ugrad RA&nbsp;&nbsp;&nbsp;<b>Xichen Pan</b> (May 2021 – Sep 2021)

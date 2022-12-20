@@ -21,6 +21,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/amjad.jpeg" alt="Amjad_Allobadi" width="120" height="120"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.amj.dev/" target="_blank">Amjad Allobadi</a>
 
+<h4>‍🎓 Current Masters Students</h4>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/placeholder.png" alt="Amjad_Allobadi" width="120" height="120"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hifromajay.github.io/stamlab.html" target="_blank">Suraj Bhatta</a>
+
 
 
 <h4>‍🎓 Students supervised at the University of Alberta</h4>

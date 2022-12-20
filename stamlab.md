@@ -17,14 +17,9 @@
 <p class="center" style="color:green;"><b> The Software Testing And Maintenance (STAM) Lab</b></p>
 
 
-<h4>‍🎓 Current Ph.D. Students</h4>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/amjad.jpeg" alt="Amjad_Allobadi" width="120" height="120"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.amj.dev/" target="_blank">Amjad Allobadi</a>
-
-<h4>‍🎓 Current Masters Students</h4>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/placeholder.png" alt="Amjad_Allobadi" width="120" height="120"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hifromajay.github.io/stamlab.html" target="_blank">Suraj Bhatta</a>
-
+<h4>‍🎓 Current Students</h4>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/amjad.jpeg" alt="Amjad_Allobadi" width="120" height="120">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/img.png" alt="suraj_bhatta" width="120" height="120"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.amj.dev/" target="_blank">Amjad Allobadi, PhD</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hifromajay.github.io/stamlab.html" target="_blank">Suraj Bhatta, MS</a>
 
 
 <h4>‍🎓 Students supervised at the University of Alberta</h4>

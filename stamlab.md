@@ -16,11 +16,11 @@
 <img src="assets/img/stam_logo.png" alt="The Software Testing And Maintenance (STAM) Lab" width="120" height="45" class="centerImg">
 <p class="center" style="color:green;"><b> The Software Testing And Maintenance (STAM) Lab</b></p>
 
-
+<hr>
 <h4>‍🎓 Current Students</h4>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/amjad.jpeg" alt="Amjad_Allobadi" width="120" height="120">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/img.png" alt="suraj_bhatta" width="120" height="120"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.amj.dev/" target="_blank">Amjad Allobadi, PhD</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hifromajay.github.io/stamlab.html" target="_blank">Suraj Bhatta, MS</a>
-
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.amj.dev/" target="_blank">Amjad Allobadi, PhD</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://hifromajay.github.io/stamlab.html" target="_blank">Suraj Bhatta, MS</a>
+<hr>
 
 <h4>‍🎓 Students co-supervised at the University of Alberta</h4>
 - Masters&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Mansur Gulami</b> (Feb 2022 - July 2022)

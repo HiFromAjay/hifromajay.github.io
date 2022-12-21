@@ -78,5 +78,5 @@
 
 
 <b>Capture and replay technique for reproducing crash in android applications</b> [<a href="papers/iasted13.pdf" target="_blank">Paper</a>]
-<br>Ajay Kumar Jha, and Woo Jin Lee
+<br>Ajay Kumar Jha and Woo Jin Lee
 <br>In Proceedings of the 12th IASTED International Conference in Software Engineering, pp. 783-790. 2013.

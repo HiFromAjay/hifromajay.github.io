@@ -67,6 +67,11 @@
 <br>In Proceedings of the 2nd ACM International Conference on Mobile Software Engineering and Systems (MobileSoft), pp. 113-116. 2015.
 
 
+<b>Virtual prototype generation by shockwave flash for simulating HW components of embedded system</b> [<a href="https://dl.acm.org/doi/pdf/10.1145/2554850.2559926" target="_blank">Paper</a>]
+<br>Soo Young Jang, Ajay Kumar Jha, and Woo Jin Lee
+<br>In Proceedings of the 29th Annual ACM Symposium on Applied Computing (SAC), pp. 1755-1756. 2014.
+
+
 <b>Value-deterministic search-based replay for android multithreaded applications</b> [<a href="papers/racs14.pdf" target="_blank">Paper</a>]
 <br>Ajay Kumar Jha, Sooyong Jeong, and Woo Jin Lee
 <br>In Proceedings of the 2013 Research in Adaptive and Convergent Systems (RACS), pp. 381-386. 2013.

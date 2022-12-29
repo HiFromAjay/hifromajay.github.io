@@ -12,19 +12,17 @@
  <br>
  <br>
  <b>Research Interest:</b> I am interested in software engineering, specifically software testing and maintenance. 
- I work in various research areas including but not limited to the following research areas. 
- <br>
- <ul>
- <li><b><i>Test Recommendation and Reuse:</i></b> Writing tests from scratch is difficult and time-consuming. 
+ I work in various research areas including but not limited to the following research areas. <br> 
+ <b><i>Test Recommendation and Reuse:</i></b> Writing tests from scratch is difficult and time-consuming. 
  To ease the process of writing tests, I develop techniques to recommend tests that can be used as a starting point for 
- developers to write tests manually. Furthermore, I develop tools and techniques to reuse the recommended tests automatically.</li>
- <li><b><i>Test Maintenance:</i></b> Test suite evolution is a natural process for any active software system, 
+ developers to write tests manually. Furthermore, I develop tools and techniques to reuse the recommended tests automatically.<br>
+ <b><i>Test Maintenance:</i></b> Test suite evolution is a natural process for any active software system, 
  mainly due to changes in the production code. However, the maintenance and execution of a large number of tests are 
- resource-intensive and costly. Therefore, I develop techniques to remove obsolete and redundant tests and repair broken tests.</li>
- <li><b><i>Bug Collection, Characterization, and Detection:</i></b> Users are likely to abandon any software system that 
+ resource-intensive and costly. Therefore, I develop techniques to remove obsolete and redundant tests and repair broken tests.<br>
+ <b><i>Bug Collection, Characterization, and Detection:</i></b> Users are likely to abandon any software system that 
  has critical bugs. Therefore, to help developers in preventing, detecting, and fixing critical bugs, I collect and characterize various types of critical bugs and develop tools and 
- techniques to detect these bugs.</li>
- </ul>
+ techniques to detect these bugs.<br>
+ 
  You can find more information about me in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a> (Updated Dec 16, 2022).</div>
  
  

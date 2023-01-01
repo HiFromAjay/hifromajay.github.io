@@ -19,7 +19,7 @@
 
 <b>Mining Annotation Usage Rules: A Case Study with MicroProfile</b> [<a href="papers/icsme22.pdf" target="_blank">Paper</a>]
 <br>Batyr Nuryyev, Ajay Kumar Jha, Sarah Nadi, Yee-Kang Chang, Emily Jiang and Vijay Sundaresan
-<br>In Proceedings of 38th IEEE International Conference on Software Maintenance and Evolution (ICSME). 2022. Industry Track.
+<br>In Proceedings of 38th IEEE International Conference on Software Maintenance and Evolution (ICSME), pp. 553-562. 2022. Industry Track.
 
 
 <b>Annotation practices in Android apps</b> [<a href="papers/scam20.pdf" target="_blank">Paper</a>]

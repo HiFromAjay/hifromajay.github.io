@@ -14,7 +14,10 @@
 </style>
 
 <img src="assets/img/stam_logo.png" alt="The Software Testing And Maintenance (STAM) Lab" width="120" height="45" class="centerImg">
-<p class="center" style="color:green;"><b> The Software Testing And Maintenance (STAM) Lab</b></p>
+<p class="center" style="color:green;">
+<b> The Software Testing And Maintenance (STAM) Lab</b><br>
+112, Quentin Burdick Building, Department of Computer Science
+</p>
 
 <hr>
 <h4>‍🎓 Current Students</h4>

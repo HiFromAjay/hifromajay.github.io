@@ -23,6 +23,6 @@
  has critical bugs. Therefore, to help developers in preventing, detecting, and fixing critical bugs, I collect and characterize various types of critical bugs and develop tools and 
  techniques to detect these bugs.<br>
  <br>
- You can find more information about me in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a> (Updated Dec 16, 2022).</div>
+ You can find more information about me in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a> (Updated Feb 1, 2023).</div>
  
  

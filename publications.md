@@ -14,7 +14,7 @@
 
 <b>A Human-in-the-loop Approach to Generate Annotation Usage Rules: A Case Study with MicroProfile</b> [<a href="papers/cascon22.pdf" target="_blank">Paper</a>]
 <br>Mansur Gulami, Ajay Kumar Jha, Sarah Nadi, Karim Ali, Emily Jiang, and Yee-Kang Chang
-<br>In Proceedings of Annual International Conference on Computer Science and Software Engineering (CASCON). 2022.
+<br>In Proceedings of Annual International Conference on Computer Science and Software Engineering (CASCON), pp 91-100. 2022.
 
 
 <b>Mining Annotation Usage Rules: A Case Study with MicroProfile</b> [<a href="papers/icsme22.pdf" target="_blank">Paper</a>]

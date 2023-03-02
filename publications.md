@@ -2,7 +2,7 @@
 ### [Students](stamlab.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
 ***
 
-<b>JTestMigBench and JTestMigTax: A benchmark and taxonomy for unit test migration</b> [<a href="papers/saner23.pdf" target="_blank">Paper</a>]
+<b>JTestMigBench and JTestMigTax: A benchmark and taxonomy for unit test migration</b> [<a href="papers/saner23.pdf" target="_blank">Paper</a>] [<a href="https://youtu.be/muTCaN53384" target="_blank">Video</a>]
 <br>Ajay Kumar Jha, Mohayeminul Islam, and Sarah Nadi
 <br>In Proceedings of 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER). 2023. ERA Track.
 
@@ -22,7 +22,7 @@
 <br>In Proceedings of 38th IEEE International Conference on Software Maintenance and Evolution (ICSME), pp. 553-562. 2022. Industry Track.
 
 
-<b>Annotation practices in Android apps</b> [<a href="papers/scam20.pdf" target="_blank">Paper</a>]
+<b>Annotation practices in Android apps</b> [<a href="papers/scam20.pdf" target="_blank">Paper</a>] [<a href="https://youtu.be/3SVqE7ZK4GI" target="_blank">Video</a>]
 <br>Ajay Kumar Jha and Sarah Nadi
 <br>In Proceedings of 20th IEEE International Working Conference on Source Code Analysis & Manipulation (SCAM), pp. 132-142. 2020.
 

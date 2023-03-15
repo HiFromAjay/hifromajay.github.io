@@ -26,8 +26,8 @@
 <hr>
 
 <h4>‍🎓 Students co-supervised at the University of Alberta</h4>
-- Ph.D.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Mohayeminul Islam</b> (Oct 2021 - current)
-- Masters&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Mansur Gulami</b> (Feb 2022 - July 2022)
-- Masters&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Batyr Nuryyev</b> (July 2020 – Nov 2021)
-- Ugrad RA&nbsp;&nbsp;&nbsp;<b>Xichen Pan</b> (May 2021 – Sep 2021)
+- Mohayeminul Islam (Ph.D., Oct 2021 - current)
+- Mansur Gulami (MS, Feb 2022 - July 2022)
+- Batyr Nuryyev (MS, July 2020 – Nov 2021)
+- Xichen Pan (Ugrad RA, May 2021 – Sep 2021)
 

@@ -2,6 +2,11 @@
 ### [Students](stamlab.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
 ***
 
+<b>PyMigBench: A Benchmark for Python Library Migration</b> [<a href="papers/msr23.pdf" target="_blank">Paper</a>]
+<br>Mohayeminul Islam, Ajay Kumar Jha, Sarah Nadi, and Ildar Akhmetov
+<br>In Proceedings of 20th IEEE International Conference on Mining Software Repositories (MSR). 2023. Data and Tool Track.
+
+
 <b>JTestMigBench and JTestMigTax: A benchmark and taxonomy for unit test migration</b> [<a href="papers/saner23.pdf" target="_blank">Paper</a>] [<a href="https://youtu.be/muTCaN53384" target="_blank">Video</a>]
 <br>Ajay Kumar Jha, Mohayeminul Islam, and Sarah Nadi
 <br>In Proceedings of 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER). 2023. ERA Track.

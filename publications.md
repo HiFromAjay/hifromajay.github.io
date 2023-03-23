@@ -9,7 +9,7 @@
 
 <b>JTestMigBench and JTestMigTax: A benchmark and taxonomy for unit test migration</b> [<a href="papers/saner23.pdf" target="_blank">Paper</a>] [<a href="https://youtu.be/muTCaN53384" target="_blank">Video</a>]
 <br>Ajay Kumar Jha, Mohayeminul Islam, and Sarah Nadi
-<br>In Proceedings of 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER). 2023. ERA Track.
+<br>In Proceedings of 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), pp. 713-717 2023. ERA Track.
 
 
 <b>PyMigBench and PyMigTax: A Benchmark and Taxonomy for Python Library Migration</b> [<a href="https://arxiv.org/abs/2207.01124" target="_blank">Paper</a>]

@@ -20,7 +20,7 @@
 </p>
 
 <hr>
-<h4>‍🎓 Current Students</h4>
+<h4>‍🎓 Students Supervising Currently</h4>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/amjad.jpeg" alt="Amjad_Allobadi" width="120" height="120">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/suraj_bhatta.JPG" alt="suraj_bhatta" width="120" height="120"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.amj.dev/" target="_blank">Amjad Allobadi, PhD</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://bhattasuraj76.com.np/" target="_blank">Suraj Bhatta, MS</a>
 <hr>

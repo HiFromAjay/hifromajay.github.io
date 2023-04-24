@@ -20,14 +20,8 @@
 </p>
 
 <hr>
-<h4>‍🎓 Students Supervising Currently</h4>
+<h4>‍🎓 Current Members</h4>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/amjad.jpeg" alt="Amjad_Allobadi" width="120" height="120">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/suraj_bhatta.JPG" alt="suraj_bhatta" width="120" height="120"><br>
-&nbsp;&nbsp;&nbsp;&nbsp;Amjad Allobadi, PhD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suraj Bhatta, MS
-<hr>
+&nbsp;&nbsp;&nbsp;&nbsp;Amjad Allobadi, PhD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suraj Bhatta, MS
 
-<h4>‍🎓 Students co-supervised at the University of Alberta</h4>
-- Mohayeminul Islam (Ph.D., Oct 2021 - current)
-- Mansur Gulami (MS, Feb 2022 - July 2022)
-- Batyr Nuryyev (MS, July 2020 – Nov 2021)
-- Xichen Pan (Ugrad RA, May 2021 – Sep 2021)
 

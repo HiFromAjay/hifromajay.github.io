@@ -22,10 +22,10 @@
 <hr>
 <h4>‍🎓 Current Members</h4>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/amjad.jpeg" alt="Amjad_Allobadi" width="120" height="120">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/suraj_bhatta.JPG" alt="suraj_bhatta" width="120" height="120">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/sai_kiran.jpg" alt="Sai_Kiran" width="120" height="120"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/suraj_bhatta.JPG" alt="suraj_bhatta" width="120" height="120">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/sai_kiran.jpg" alt="Sai_Kiran" width="120" height="120"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;Amjad Allobadi, PhD
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suraj Bhatta, MS
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sai Kiran Bhrugumalla, MS
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sai Kiran Bhrugumalla, MS
 
 

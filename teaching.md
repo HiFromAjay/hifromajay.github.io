@@ -6,4 +6,4 @@
 
 📚 <a href="teaching/syllabus/783spring23.pdf" target="_blank">CSCI 783. Topics In Software Systems: Mobile Software Engineering</a>, NDSU - Spring 2023
 
-📚 <a href="teaching/syllabus/499fall23.pdf" target="_blank">CSCI 499. Special Topics: Mobile Software Engineering</a>, NDSU - Fall 2023
+📚 <a href="teaching/syllabus/412fall23.pdf" target="_blank">CSCI 412. Mobile Software Engineering</a>, NDSU - Fall 2023

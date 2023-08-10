@@ -15,11 +15,11 @@
 <b>CSCI 412: Mobile Software Engineering</b> <br>
 <b>Syllabus:</b> <a href="teaching/syllabus/412fall23.pdf" target="_blank"><img src="assets/img/pdficon.png" width="15" height="15"></a>&nbsp;&nbsp;<a href="https://youtu.be/XfkRyP2y3m0" target="_blank">▶️</a>
 </p>
-<b>Course Contents (use your NDSU credentials to access them):</b>
+<b>Use your NDSU credentials to access the following contents:</b>
 
 | Week  | Chapter                                                          | Materials                                                                                                                                                                                                             | 
 |-------|------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1-2   | 1. Mobile Software Engineering: Opportunities, Needs, and Challenges | <a href="https://docs.google.com/presentation/d/1PGR_GMHjxhzsd3vUVh8oclj61hf0_TI6vf9198AsQ7Y/edit?usp=sharing" target="_blank">Slides</a>, Videos: <a href="https://youtu.be/QuIbwxT3LMo" target="_blank">▶Opportunities</a>, ▶Needs, ▶Challenges |
+| 1-2   | 1. Mobile Software Engineering: Opportunities, Needs, and Challenges | <a href="https://docs.google.com/presentation/d/1PGR_GMHjxhzsd3vUVh8oclj61hf0_TI6vf9198AsQ7Y/edit?usp=sharing" target="_blank">Slides</a>, Videos: <a href="https://youtu.be/QuIbwxT3LMo" target="_blank">Opportunities</a>, Needs, Challenges |
 | 3-4   | 2. Mobile App Development: Native Android Apps                   | Slides                                                                                                                                                                                                                |
 | 5-6   | 3. Mobile App Quality                                            | Slides                                                                                                                                                                                                                |
 | 7-8   | 4. Mobile App Reliability                                        | Slides                                                                                                                                                                                                                |

@@ -11,9 +11,8 @@
 }
 </style>
 
-<p class="center">
+<p class="center" style="color:green;">
 <b>CSCI 412: Mobile Software Engineering</b> <br>
 <b>Syllabus:</b> <a href="teaching/syllabus/412fall23.pdf" target="_blank"><img src="assets/img/pdficon.png" width="15" height="15"></a>&nbsp;&nbsp;<a href="https://youtu.be/XfkRyP2y3m0" target="_blank">▶️</a>
 </p>
-<br>
-<b>Course Contents</b> (use your NDSU credentials to access them)<b>:</b>
+<b>Course Contents (use your NDSU credentials to access them):</b>

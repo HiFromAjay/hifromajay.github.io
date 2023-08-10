@@ -15,7 +15,7 @@
 <b>CSCI 412: Mobile Software Engineering</b> <br>
 <b>Syllabus:</b> <a href="teaching/syllabus/412fall23.pdf" target="_blank"><img src="assets/img/pdficon.png" width="15" height="15"></a>&nbsp;&nbsp;<a href="https://youtu.be/XfkRyP2y3m0" target="_blank">▶️</a>
 </p>
-<b>👉 Use your NDSU credentials to access the contents:</b>
+👉 Use your NDSU credentials to access the following contents:
 
 | 📅Week            | 📚Chapter                                                            | 📁Content                                                                                                                                                                                                                                       | 
 |-------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

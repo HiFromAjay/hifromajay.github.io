@@ -19,7 +19,7 @@
 
 | 📅Week               | 📚Chapter                                                       | 📁Content                                                                                                                                 | 
 |----------------------|-----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| 1st                  | 🔖 Course Introduction                                          | <a href="https://docs.google.com/presentation/d/1b1T9WiN1tmtCEJ4SZW52mrcTFQgvnDPmERAo3OfbmQU/edit?usp=sharing" target="_blank">Slides</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+| 1st                  | 🔖 Course Introduction                                          | <a href="https://docs.google.com/presentation/d/1b1T9WiN1tmtCEJ4SZW52mrcTFQgvnDPmERAo3OfbmQU/edit?usp=sharing" target="_blank">Slides</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | 1st - 3rd            | 🔖 Introduction to Project Management                           | <a href="https://docs.google.com/presentation/d/18MhMlIIAmwCrhoatjn9lpFl2qiblnpvhC0_oV_r0JQo/edit?usp=sharing" target="_blank">Slides</a> |
 |                      | 🏆 Assignment                                                   | <a href="https://docs.google.com/document/d/1cnazUVmk3NirsKWiKT6nTX7pjyXKffY-VEWFwqk7iCg/edit?usp=sharing" target="_blank">First</a>      |
 | 4th & 5th            | 🔖 Project Identification, Selection, and Planning              | <a href="https://docs.google.com/presentation/d/1j39-QKLtTMZdGkSr3czaprbrYbvB0bNTiqF7EzhAdgw/edit?usp=sharing" target="_blank">Slides</a> |

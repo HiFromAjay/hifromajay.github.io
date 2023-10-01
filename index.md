@@ -1,5 +1,5 @@
 
-### [Students](stamlab.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
+### [Team](stamlab.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
 ***
 <div style="text-align: justify"> <b>Bio:</b> I am an Assistant Professor at North Dakota State University. Before joining NDSU, I worked as a Postdoctoral Researcher for more than 2 years at the University of Alberta in the
  <a href="https://sarahnadi.org/smr/" target="_blank">SMR lab</a> led by Prof. Sarah Nadi. Before that, I worked as a 

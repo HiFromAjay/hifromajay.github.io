@@ -12,7 +12,7 @@
 </style>
 
 <p class="center" style="color:green;">
-<b>CSCI 714: Software Project Planning and Estimation, </b> <br>
+<b>CSCI 714: Software Project Planning and Estimation </b> <br>
 <b>Syllabus:</b> &nbsp;&nbsp;
 </p>
 👉 Use your NDSU credentials to access the following contents:

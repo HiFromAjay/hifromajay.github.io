@@ -3,7 +3,8 @@
 ***
 
 #### 🤠 PC Member:
-- <b>MSR</b>: International Conference on Mining Software Repositories - 2021 (Technical track), 2022 (Technical track)
+- <b>MSR</b>: International Conference on Mining Software Repositories - 2021 (Technical track), 2022 (Technical track), 2024 (Technical track)
+- <b>ICSME</b>: International Conference on Software Maintenance and Evolution - 2024 (Technical track)
 - <b>SANER</b>: International Conference on Software Analysis, Evolution and Reengineering - 2021 (ERA track), 2022 (ERA track), 2024 (Tools Demo track)
 - <b>ESEC/FSE</b>: Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering - 2021 (Artifact track), 2022 (Artifact track)
 - <b>ASE</b>: International Conference on Automated Software Engineering - 2021 (Artifact track), 2022 (Artifact track)

@@ -2,19 +2,19 @@
 ### [Team](stamlab.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
 ***
 
+<b>Characterizing Python Library Migrations</b> [<a href="papers/fse24.pdf" target="_blank">Paper</a>]
+<br>Mohayeminul Islam, Ajay Kumar Jha, Ildar Akhmetov, and Sarah Nadi 
+<br>In Proceedings of the 32nd ACM Symposium on the Foundations of Software Engineering (FSE) . 2024. 
+
+
 <b>PyMigBench: A Benchmark for Python Library Migration</b> [<a href="papers/msr23.pdf" target="_blank">Paper</a>]
 <br>Mohayeminul Islam, Ajay Kumar Jha, Sarah Nadi, and Ildar Akhmetov
-<br>In Proceedings of 20th IEEE International Conference on Mining Software Repositories (MSR). 2023. Data and Tool Track.
+<br>In Proceedings of 20th IEEE International Conference on Mining Software Repositories (MSR). pp. 511-515, 2023. Data and Tool Track.
 
 
 <b>JTestMigBench and JTestMigTax: A benchmark and taxonomy for unit test migration</b> [<a href="papers/saner23.pdf" target="_blank">Paper</a>] [<a href="https://youtu.be/muTCaN53384" target="_blank">Video</a>]
 <br>Ajay Kumar Jha, Mohayeminul Islam, and Sarah Nadi
-<br>In Proceedings of 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), pp. 713-717 2023. ERA Track.
-
-
-<b>PyMigBench and PyMigTax: A Benchmark and Taxonomy for Python Library Migration</b> [<a href="https://arxiv.org/abs/2207.01124" target="_blank">Paper</a>]
-<br>Mohayeminul Islam, Ajay Kumar Jha, and Sarah Nadi
-<br>arXiv: 2207.01124. 2022.
+<br>In Proceedings of 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), pp. 713-717, 2023. ERA Track.
 
 
 <b>A Human-in-the-loop Approach to Generate Annotation Usage Rules: A Case Study with MicroProfile</b> [<a href="papers/cascon22.pdf" target="_blank">Paper</a>]

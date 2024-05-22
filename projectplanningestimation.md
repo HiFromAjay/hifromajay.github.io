@@ -1,4 +1,4 @@
-### [Team](stamlab.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publications](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Services](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
+### [Team](stamlab.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
 ***
 <style type="text/css">
 .center{

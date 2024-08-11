@@ -2,6 +2,11 @@
 ### [Team](stamlab.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
 ***
 
+<b>TRec: A Regression Test Recommender for Java Projects</b> 
+<br>Sai Kiran Bhrugumalla, Ajay Kumar Jha
+<br>In Proceedings of the 40th International Conference on Software Maintenance and Evolution (ICSME) . 2024. Tool Demo Track
+
+
 <b>Characterizing Python Library Migrations</b> [<a href="papers/fse24.pdf" target="_blank">Paper</a>]
 <br>Mohayeminul Islam, Ajay Kumar Jha, Ildar Akhmetov, and Sarah Nadi 
 <br>In Proceedings of the 32nd ACM Symposium on the Foundations of Software Engineering (FSE) . 2024. 

@@ -7,7 +7,7 @@
 <br>In Proceedings of the 24th IEEE International Conference on Source Code Analysis and Manipulation (SCAM). 2024.
 
 
-<b>TRec: A Regression Test Recommender for Java Projects</b> [<a href="papers/icsme24.pdf" target="_blank">Paper</a>]
+<b>TRec: A Regression Test Recommender for Java Projects</b> [<a href="papers/icsme24.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/TRec" target="_blank">Tool</a>]
 <br>Sai Kiran Bhrugumalla, Ajay Kumar Jha
 <br>In Proceedings of the 40th IEEE International Conference on Software Maintenance and Evolution (ICSME). 2024. Tool Demo Track
 

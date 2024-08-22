@@ -2,14 +2,19 @@
 ### [Team](stamlab.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
 ***
 
-<b>TRec: A Regression Test Recommender for Java Projects</b> 
+<b>Migrating Unit Tests Across Java Applications</b>
+<br>Ajay Kumar Jha, Sarah Nadi
+<br>In Proceedings of the 24th IEEE International Conference on Source Code Analysis and Manipulation (SCAM). 2024.
+
+
+<b>TRec: A Regression Test Recommender for Java Projects</b> [<a href="papers/icsme24.pdf" target="_blank">Paper</a>]
 <br>Sai Kiran Bhrugumalla, Ajay Kumar Jha
-<br>In Proceedings of the 40th International Conference on Software Maintenance and Evolution (ICSME) . 2024. Tool Demo Track
+<br>In Proceedings of the 40th IEEE International Conference on Software Maintenance and Evolution (ICSME). 2024. Tool Demo Track
 
 
 <b>Characterizing Python Library Migrations</b> [<a href="papers/fse24.pdf" target="_blank">Paper</a>]
 <br>Mohayeminul Islam, Ajay Kumar Jha, Ildar Akhmetov, and Sarah Nadi 
-<br>In Proceedings of the 32nd ACM Symposium on the Foundations of Software Engineering (FSE) . 2024. 
+<br>In Proceedings of the 32nd ACM Symposium on the Foundations of Software Engineering (FSE). 2024. 
 
 
 <b>PyMigBench: A Benchmark for Python Library Migration</b> [<a href="papers/msr23.pdf" target="_blank">Paper</a>]

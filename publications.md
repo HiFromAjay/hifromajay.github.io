@@ -14,7 +14,7 @@
 
 <b>Characterizing Python Library Migrations</b> [<a href="papers/fse24.pdf" target="_blank">Paper</a>]
 <br>Mohayeminul Islam, Ajay Kumar Jha, Ildar Akhmetov, and Sarah Nadi 
-<br>In Proceedings of the 32nd ACM Symposium on the Foundations of Software Engineering (FSE). 2024. 
+<br>In Proceedings of the 32nd ACM Symposium on the Foundations of Software Engineering (FSE). pp. 92-114, 2024. 
 
 
 <b>PyMigBench: A Benchmark for Python Library Migration</b> [<a href="papers/msr23.pdf" target="_blank">Paper</a>]

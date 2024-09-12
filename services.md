@@ -19,5 +19,6 @@
 
 
 #### 🤠 Session Chair:
+- <b>ICSME</b>: International Conference on Software Maintenance and Evolution - 2024
 - <b>SANER</b>: International Conference on Software Analysis, Evolution and Reengineering - 2022
 - <b>MSR</b>: International Conference on Mining Software Repositories - 2022

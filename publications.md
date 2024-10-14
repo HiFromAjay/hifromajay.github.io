@@ -2,7 +2,7 @@
 ### [Team](stamlab.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
 ***
 
-<b>Migrating Unit Tests Across Java Applications</b> [<a href="papers/scam24.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/JTestMigrator" target="_blank">Tool</a>]
+<b>Migrating Unit Tests Across Java Applications</b> [<a href="papers/scam24.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/JTestMigrator" target="_blank">Tool</a>] [<a href="https://docs.google.com/presentation/d/188pq3VdLkBIrre0ExEXy2mpdOqr2Pu7UVMyGVXK2iKw/edit?usp=sharing" target="_blank">Slides</a>]
 <br>Ajay Kumar Jha, Sarah Nadi
 <br>In Proceedings of the 24th IEEE International Conference on Source Code Analysis and Manipulation (SCAM). 2024.
 

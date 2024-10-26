@@ -4,7 +4,7 @@
 
 📚 [CSCI 412. Mobile Software Engineering](mobilesofteng.md), NDSU - Fall 2023, 2024
 
-📚 [CSCI 712. Mobile Software Engineering](mobilesofteng.md), NDSU - Spring 2025
+📚 [CSCI 712. Mobile Software Engineering](mobilesofteng712.md), NDSU - Spring 2025
 
 📚 [CSCI 714. Software Project Planning and Estimation](projectplanningestimation.md), NDSU - Fall 2022, 2023, 2024
 

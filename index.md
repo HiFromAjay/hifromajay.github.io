@@ -15,7 +15,7 @@
  Please check my <a href="stamlab.md">research group</a> and <a href="publications.md">publications</a> to know more about my research.
 <br>
 <br>
-<img src="assets/img/stam_logo.png" alt="The Software Testing And Maintenance (STAM) Lab" width="120" height="45" class="centerImg"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/stam_logo.png" alt="The Software Testing And Maintenance (STAM) Lab" width="120" height="45" class="centerImg"><br>
 <b> The Software Testing And Maintenance (STAM) Lab</b>
 <br>
 <br>

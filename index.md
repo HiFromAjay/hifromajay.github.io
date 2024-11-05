@@ -12,17 +12,13 @@
  <br>
  <br>
  <b>Research Interest:</b> I am interested in software engineering, specifically software testing and maintenance. 
- I work in various research areas including but not limited to the following research areas. <br> 
- 👉<b><i>Test Recommendation and Reuse:</i></b> Writing tests from scratch is difficult and time-consuming. 
- To ease the process of writing tests, I develop techniques to recommend tests that can be used as a starting point for 
- developers to write tests manually. Furthermore, I develop tools and techniques to reuse the recommended tests automatically.<br>
- 👉<b><i>Test Maintenance:</i></b> Test suite evolution is a natural process for any active software system, 
- mainly due to changes in the production code. However, the maintenance and execution of a large number of tests are 
- resource-intensive and costly. Therefore, I develop techniques to remove obsolete and redundant tests and repair broken tests.<br>
- 👉<b><i>Bug Collection, Characterization, and Detection:</i></b> Users are likely to abandon any software system that 
- has critical bugs. Therefore, to help developers in preventing, detecting, and fixing critical bugs, I collect and characterize various types of critical bugs and develop tools and 
- techniques to detect those bugs.<br>
- <br>
- You can find more information about me in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a> (Updated Aug 22, 2024).</div>
+ Please check my [research group](stamlab.md) and publications to know more about my research.
+
+<img src="assets/img/stam_logo.png" alt="The Software Testing And Maintenance (STAM) Lab" width="120" height="45" class="centerImg">
+<p class="center" style="color:green;">
+<b> The Software Testing And Maintenance (STAM) Lab</b><br>
+</p>
+
+You can find more information about me in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a> (Updated Aug 22, 2024).</div>
  
  

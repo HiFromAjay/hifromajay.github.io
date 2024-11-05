@@ -12,11 +12,11 @@
  <br>
  <br>
  <b>Research Interest:</b> I am interested in software engineering, specifically software testing and maintenance. 
- Please check my <a href="stamlab.md">research group</a> and publications to know more about my research.
-
+ Please check my <a href="stamlab.md">research group</a> and <a href="publications.md">publications</a> to know more about my research.
+<br>
 <img src="assets/img/stam_logo.png" alt="The Software Testing And Maintenance (STAM) Lab" width="120" height="45" class="centerImg">
 <b> The Software Testing And Maintenance (STAM) Lab</b>
-
+<br>
 You can find more information about me in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a> (Updated Aug 22, 2024).</div>
  
  

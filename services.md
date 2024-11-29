@@ -2,7 +2,7 @@
 ### [Team](stamlab.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
 ***
 
-#### 🤠 PC Member:
+#### 🤠 Program Committee Member:
 - <b>MSR</b>: International Conference on Mining Software Repositories - 2021 (Technical track), 2022 (Technical track), 2024 (Technical track), 2025 (Technical track)
 - <b>ICSME</b>: International Conference on Software Maintenance and Evolution - 2024 (Technical track)
 - <b>SANER</b>: International Conference on Software Analysis, Evolution and Reengineering - 2021 (ERA track), 2022 (ERA track), 2024 (Tools Demo track)

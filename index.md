@@ -17,19 +17,21 @@ innovative tools and techniques to improve the efficiency, effectiveness, and re
 <br>
 <b>Selected publications:</b>
 
-Migrating Unit Tests Across Java Applications [<a href="papers/scam24.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/JTestMigrator" target="_blank">Tool</a>] 
+<br>Migrating Unit Tests Across Java Applications [<a href="papers/scam24.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/JTestMigrator" target="_blank">Tool</a>] 
 <br>Ajay Kumar Jha, Sarah Nadi
 <br>In Proceedings of the 24th IEEE International Conference on Source Code Analysis and Manipulation (SCAM). 2024.
+<br>
 
-
-TRec: A Regression Test Recommender for Java Projects [<a href="papers/icsme24.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/TRec" target="_blank">Tool</a>] 
+<br>TRec: A Regression Test Recommender for Java Projects [<a href="papers/icsme24.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/TRec" target="_blank">Tool</a>] 
 <br>Sai Kiran Bhrugumalla, Ajay Kumar Jha
 <br>In Proceedings of the 40th IEEE International Conference on Software Maintenance and Evolution (ICSME). 2024. 
+<br>
 
-JTestMigBench and JTestMigTax: A benchmark and taxonomy for unit test migration [<a href="papers/saner23.pdf" target="_blank">Paper</a>] 
+<br>JTestMigBench and JTestMigTax: A benchmark and taxonomy for unit test migration [<a href="papers/saner23.pdf" target="_blank">Paper</a>] 
 <br>Ajay Kumar Jha, Mohayeminul Islam, and Sarah Nadi
 <br>In Proceedings of 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), pp. 713-717, 2023. ERA Track.
+<br>
 
-You can find more information about me in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a> (Updated Aug 22, 2024).</div>
+<br>You can find more information about me in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a> (Updated Aug 22, 2024).</div>
  
  

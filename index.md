@@ -15,22 +15,22 @@
 innovative tools and techniques to improve the efficiency, effectiveness, and reliability of test suites. Please check our <a href="publications.html">publications</a> to know more about our research.
 <br>
 <br>
-<b>Selected publications:</b>
+<b>Selected publications:</b><br>
 
-<p><b>Migrating Unit Tests Across Java Applications</b> [<a href="papers/scam24.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/JTestMigrator" target="_blank">Tool</a>] 
+<br><b>Migrating Unit Tests Across Java Applications</b> [<a href="papers/scam24.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/JTestMigrator" target="_blank">Tool</a>] 
 <br>Ajay Kumar Jha, Sarah Nadi
 <br>In Proceedings of the 24th IEEE International Conference on Source Code Analysis and Manipulation (SCAM). 2024.
-</p>
+<br>
 
-<p><b>TRec: A Regression Test Recommender for Java Projects</b> [<a href="papers/icsme24.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/TRec" target="_blank">Tool</a>] 
+<br><b>TRec: A Regression Test Recommender for Java Projects</b> [<a href="papers/icsme24.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/TRec" target="_blank">Tool</a>] 
 <br>Sai Kiran Bhrugumalla, Ajay Kumar Jha
 <br>In Proceedings of the 40th IEEE International Conference on Software Maintenance and Evolution (ICSME). 2024. 
-</p>
+<br>
 
-<p><b>JTestMigBench and JTestMigTax: A benchmark and taxonomy for unit test migration</b> [<a href="papers/saner23.pdf" target="_blank">Paper</a>] 
+<br><b>JTestMigBench and JTestMigTax: A benchmark and taxonomy for unit test migration</b> [<a href="papers/saner23.pdf" target="_blank">Paper</a>] 
 <br>Ajay Kumar Jha, Mohayeminul Islam, and Sarah Nadi
 <br>In Proceedings of 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), pp. 713-717, 2023. ERA Track.
-</p>
+<br>
 
 <br>You can find more information about me in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a> (Updated Aug 22, 2024).</div>
  

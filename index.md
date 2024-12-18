@@ -29,7 +29,7 @@ innovative tools and techniques to improve the efficiency, effectiveness, and re
 
 <br><b>JTestMigBench and JTestMigTax: A benchmark and taxonomy for unit test migration</b> [<a href="papers/saner23.pdf" target="_blank">Paper</a>] 
 <br>Ajay Kumar Jha, Mohayeminul Islam, and Sarah Nadi
-<br>In Proceedings of 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), pp. 713-717, 2023. ERA Track.
+<br>In Proceedings of 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), pp. 713-717, 2023. 
 <br>
 
 <br>You can find more information about me in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a> (Updated Aug 22, 2024).</div>

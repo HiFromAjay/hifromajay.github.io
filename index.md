@@ -11,8 +11,8 @@
   including MSR, FSE, ASE, SANER, ICSME, MobileSoft, ICSE, TSE, and EMSE.
  <br>
  <br>
- <b>Research Interest:</b> I am interested in software engineering, specifically software testing and maintenance. 
- Please check my <a href="stamlab.html">research group</a> and <a href="publications.html">publications</a> to know more about my research.
+ <b>Research:</b> I lead the <a href="stamlab.html">Software Testing and Maintenance</a> Lab, where our research focuses on developing
+innovative tools and techniques to improve the efficiency, effectiveness, and reliability of test suites. Please check our <a href="publications.html">publications</a> to know more about our research.
 <br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/stam_logo.png" alt="The Software Testing And Maintenance (STAM) Lab" width="160" height="55" class="centerImg"><br>

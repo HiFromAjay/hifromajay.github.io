@@ -12,10 +12,8 @@
  <br>
  <br>
  <b>Research:</b> I lead the <a href="stamlab.html">Software Testing and Maintenance</a> Lab, where our research focuses on developing
-innovative tools and techniques to improve the efficiency, effectiveness, and reliability of test suites. Please check our <a href="publications.html">publications</a> to know more about our research.
+innovative tools and techniques to improve the efficiency, effectiveness, and reliability of test suites. Please check the selected publications below or our full list of <a href="publications.html">publications</a> to know more about our research.
 <br>
-<br>
-<b>Selected publications:</b><br>
 
 <br><b>Migrating Unit Tests Across Java Applications</b> [<a href="papers/scam24.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/JTestMigrator" target="_blank">Tool</a>] 
 <br>Ajay Kumar Jha, Sarah Nadi

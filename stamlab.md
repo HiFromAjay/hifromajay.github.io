@@ -14,10 +14,6 @@
 </style>
 
 <img src="assets/img/stam_logo.png" alt="The Software Testing And Maintenance (STAM) Lab" width="120" height="45" class="centerImg">
-<p class="center" style="color:green;">
-<b> The Software Testing And Maintenance (STAM) Lab</b><br>
-QBB 112, Department of Computer Science
-</p>
 
 <hr>
 <h4>‍🎓 Current Members</h4>
@@ -39,7 +35,7 @@ QBB 112, Department of Computer Science
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master's Student
 
 <br>
-
+<hr>
 <h4>‍🎓 Previous Members</h4>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/suraj_bhatta.JPG" alt="suraj_bhatta" width="120" height="120">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/img/sai_kiran.jpg" alt="Sai_Kiran" width="120" height="120">

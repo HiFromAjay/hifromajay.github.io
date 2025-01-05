@@ -4,12 +4,12 @@
 
 <b>Migrating Unit Tests Across Java Applications</b> [<a href="papers/scam24.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/JTestMigrator" target="_blank">Tool</a>] [<a href="https://docs.google.com/presentation/d/188pq3VdLkBIrre0ExEXy2mpdOqr2Pu7UVMyGVXK2iKw/edit?usp=sharing" target="_blank">Slides</a>]
 <br>Ajay Kumar Jha, Sarah Nadi
-<br>In Proceedings of the 24th IEEE International Conference on Source Code Analysis and Manipulation (SCAM). 2024.
+<br>In Proceedings of the 24th IEEE International Conference on Source Code Analysis and Manipulation (SCAM). pp. 131-142. 2024.
 
 
 <b>TRec: A Regression Test Recommender for Java Projects</b> [<a href="papers/icsme24.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/TRec" target="_blank">Tool</a>] [<a href="https://docs.google.com/presentation/d/1WzQWVb0k_5IB-iWl0DmoGKrPY3iw3KjqWVkh__xnkAk/edit?usp=sharing" target="_blank">Slides</a>]
 <br>Sai Kiran Bhrugumalla, Ajay Kumar Jha
-<br>In Proceedings of the 40th IEEE International Conference on Software Maintenance and Evolution (ICSME). 2024. Tool Demo Track
+<br>In Proceedings of the 40th IEEE International Conference on Software Maintenance and Evolution (ICSME). pp. 903-907. 2024. Tool Demo Track
 
 
 <b>Characterizing Python Library Migrations</b> [<a href="papers/fse24.pdf" target="_blank">Paper</a>]

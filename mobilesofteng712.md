@@ -13,7 +13,7 @@
 
 <p class="center" style="color:green;">
 <b>CSCI 712: Mobile Software Engineering</b> <br>
-<b>Syllabus:</b> <a href="teaching/syllabus/712MSE.pdf" target="_blank"><img src="assets/img/pdficon.png" width="15" height="15"></a></b> 
+<b>Syllabus: <a href="teaching/syllabus/712MSE.pdf" target="_blank"><img src="assets/img/pdficon.png" width="15" height="15"></a></b> 
 </p>
 👉 Use your NDSU credentials to access the following contents:
 

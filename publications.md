@@ -1,6 +1,10 @@
 
 ### [Team](stamlab.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
 ***
+<b>Understanding Test Deletion in Java Applications</b> [<a href="papers/msr25.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/UnderstandingTestDeletion" target="_blank">Dataset</a>] 
+<br>Suraj Bhatta, Frank Kendemah, Ajay Kumar Jha
+<br>In Proceedings of 22nd IEEE/ACM International Conference on Mining Software Repositories (MSR). 2025.
+
 
 <b>Migrating Unit Tests Across Java Applications</b> [<a href="papers/scam24.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/JTestMigrator" target="_blank">Tool</a>] [<a href="https://docs.google.com/presentation/d/188pq3VdLkBIrre0ExEXy2mpdOqr2Pu7UVMyGVXK2iKw/edit?usp=sharing" target="_blank">Slides</a>]
 <br>Ajay Kumar Jha, Sarah Nadi
@@ -19,7 +23,7 @@
 
 <b>PyMigBench: A Benchmark for Python Library Migration</b> [<a href="papers/msr23.pdf" target="_blank">Paper</a>]
 <br>Mohayeminul Islam, Ajay Kumar Jha, Sarah Nadi, and Ildar Akhmetov
-<br>In Proceedings of 20th IEEE International Conference on Mining Software Repositories (MSR). pp. 511-515, 2023. Data and Tool Track.
+<br>In Proceedings of 20th IEEE/ACM International Conference on Mining Software Repositories (MSR). pp. 511-515, 2023. Data and Tool Track.
 
 
 <b>JTestMigBench and JTestMigTax: A benchmark and taxonomy for unit test migration</b> [<a href="papers/saner23.pdf" target="_blank">Paper</a>] [<a href="https://youtu.be/muTCaN53384" target="_blank">Video</a>]

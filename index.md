@@ -13,9 +13,10 @@ Before pursuing graduate studies, I spent over five years in the software indust
 innovative tools and techniques to improve the efficiency, effectiveness, and reliability of test suites. Please check the selected publications below or our full list of <a href="publications.html">publications</a> to know more about our research.
 <br>
 
-<b>Understanding Test Deletion in Java Applications</b> [<a href="papers/msr25.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/UnderstandingTestDeletion" target="_blank">Dataset</a>]
+<br><b>Understanding Test Deletion in Java Applications</b> [<a href="papers/msr25.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/UnderstandingTestDeletion" target="_blank">Dataset</a>]
 <br>Suraj Bhatta, Frank Kendemah, Ajay Kumar Jha
 <br>In Proceedings of 22nd IEEE/ACM International Conference on Mining Software Repositories (MSR). 2025.
+<br>
 
 <br><b>Migrating Unit Tests Across Java Applications</b> [<a href="papers/scam24.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/JTestMigrator" target="_blank">Tool</a>] 
 <br>Ajay Kumar Jha, Sarah Nadi

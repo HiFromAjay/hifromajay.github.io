@@ -3,17 +3,17 @@
 ***
 
 #### 🤠 Program Committee Member:
-- <b>MSR</b>: International Conference on Mining Software Repositories - 2021 (Technical track), 2022 (Technical track), 2024 (Technical track), 2025 (Technical track)
-- <b>ICSME</b>: International Conference on Software Maintenance and Evolution - 2024 (Technical track)
-- <b>SANER</b>: International Conference on Software Analysis, Evolution and Reengineering - 2021 (ERA track), 2022 (ERA track), 2024 (Tools Demo track)
-- <b>ESEC/FSE</b>: Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering - 2021 (Artifact track), 2022 (Artifact track)
-- <b>ASE</b>: International Conference on Automated Software Engineering - 2021 (Artifact track), 2022 (Artifact track)
-- <b>MobileSoft</b>: International Conference on Mobile Software Engineering and Systems - 2022 (Research track), 2023 (Research track) 
-- <b>ICSE</b>: International Conference on Software Engineering - 2023 (Demo track)
+- <b>MSR</b>: International Conference on Mining Software Repositories (Technical track) - 2021, 2022, 2024, 2025
+- <b>ICSME</b>: International Conference on Software Maintenance and Evolution (Technical track) - 2024 
+- <b>SANER</b>: International Conference on Software Analysis, Evolution and Reengineering (ERA or Tool track) - 2021, 2022, 2024
+- <b>ESEC/FSE</b>: Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (Artifact track) - 2021, 2022
+- <b>ASE</b>: International Conference on Automated Software Engineering (Artifact track) - 2021, 2022
+- <b>MobileSoft</b>: International Conference on Mobile Software Engineering and Systems (Research track) - 2022, 2023 
+- <b>ICSE</b>: International Conference on Software Engineering (Demo track) - 2023 
 
 
 #### 🤠 Reviewer:
-- <b>TSE</b>: IEEE Transactions on Software Engineering - 2020, 2021, 2022, 2024
+- <b>TSE</b>: IEEE Transactions on Software Engineering - 2020, 2021, 2022, 2024, 2025
 - <b>EMSE</b>: Empirical Software Engineering - 2021, 2022
 - <b>JSPE</b>: Journal of Software: Practice and Experience - 2020
 

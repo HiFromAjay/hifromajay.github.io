@@ -26,7 +26,7 @@
 <br>In Proceedings of 20th IEEE/ACM International Conference on Mining Software Repositories (MSR). pp. 511-515, 2023. Data and Tool Track.
 
 
-<b>JTestMigBench and JTestMigTax: A benchmark and taxonomy for unit test migration</b> [<a href="papers/saner23.pdf" target="_blank">Paper</a>] [<a href="https://youtu.be/muTCaN53384" target="_blank">Video</a>]
+<b>JTestMigBench and JTestMigTax: A benchmark and taxonomy for unit test migration</b> [<a href="papers/saner23.pdf" target="_blank">Paper</a>] 
 <br>Ajay Kumar Jha, Mohayeminul Islam, and Sarah Nadi
 <br>In Proceedings of 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER), pp. 713-717, 2023. ERA Track.
 

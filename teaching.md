@@ -15,4 +15,3 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ LLMs for Software Testing and Maintenance - Fall 2024, Summer 2025<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ Code Smell and Refactoring - Spring 2025
 
-<a href="https://docs.google.com/presentation/d/11pHBCceSS0ibVrUTQ9lYfpdbmQ5MX0hlrIQyTd42aqY/edit?usp=sharing" target="_blank">Grand Challenges Seminar 2025</a>

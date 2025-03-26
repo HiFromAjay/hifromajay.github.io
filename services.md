@@ -14,6 +14,7 @@
 
 #### 🤠 Reviewer:
 - <b>TSE</b>: IEEE Transactions on Software Engineering - 2020, 2021, 2022, 2024, 2025
+- <b>TOSEM</b>: ACM Transactions on Software Engineering and Methodology - 2025
 - <b>EMSE</b>: Empirical Software Engineering - 2021, 2022
 - <b>JSPE</b>: Journal of Software: Practice and Experience - 2020
 
@@ -22,3 +23,9 @@
 - <b>ICSME</b>: International Conference on Software Maintenance and Evolution - 2024
 - <b>SANER</b>: International Conference on Software Analysis, Evolution and Reengineering - 2022
 - <b>MSR</b>: International Conference on Mining Software Repositories - 2022
+
+
+#### 🤠 North Dakota State University:
+- <b>CS Scholarship Committee</b>: Member - Since 2023
+- <b>CoE Library Committee</b>: Representative - Since 2024
+- <b>IRB Committee</b>: Alternate Member - Since 2023

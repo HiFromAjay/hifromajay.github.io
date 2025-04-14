@@ -9,7 +9,7 @@ Before pursuing graduate studies, I spent over five years in the software indust
   including MSR, FSE, ASE, SANER, ICSME, MobileSoft, ICSE, TSE, and EMSE. Further details are available in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a> (Updated Jan 12, 2025).
  <br>
  <br>
- <b>Research:</b> I lead the <a href="stamlab.html">Software Testing and Maintenance</a> Lab, where our research focuses on developing
+ <b>Research:</b> I lead the <a href="stamlab.html">Software Testing and Maintenance</a> (STAM) Lab, where our research focuses on developing
 innovative tools and techniques to improve the efficiency, effectiveness, and reliability of test suites. Please check the selected publications below or our full list of <a href="publications.html">publications</a> to know more about our research.
 <br>
 

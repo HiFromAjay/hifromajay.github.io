@@ -6,7 +6,7 @@ Prior to joining NDSU, I worked as a Postdoctoral Researcher for over two years 
 I earned both my Master’s (2013) and Ph.D. (2017) from Kyungpook National University under the supervision of Prof. Woo Jin Lee. 
 Before pursuing graduate studies, I spent over five years in the software industry, where I co-founded two startups and served as a business development manager in two organizations.
  I have also served as a session chair, program committee member, and reviewer for prestigious conferences and journals, 
-  including MSR, FSE, ASE, SANER, ICSME, MobileSoft, ICSE, TSE, and EMSE. Further details are available in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a> (Updated Jan 12, 2025).
+  including MSR, FSE, ASE, SANER, ICSME, MobileSoft, ICSE, TSE, TOSEM, and EMSE. Further details are available in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a> (Updated Jan 12, 2025).
  <br>
  <br>
  <b>Research:</b> I lead the <a href="stamlab.html">Software Testing and Maintenance</a> (STAM) Lab, where our research focuses on developing

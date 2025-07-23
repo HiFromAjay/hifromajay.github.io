@@ -2,7 +2,7 @@
 ### [Team](stamlab.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
 ***
 
-📚 [CSCI 412. Mobile Software Engineering](mobilesofteng.md), NDSU - Fall 2023, 2024
+📚 [CSCI 412. Mobile Software Engineering](mobilesofteng.md), NDSU - Fall 2023, 2024, 2025
 
 📚 [CSCI 712. Mobile Software Engineering](mobilesofteng712.md), NDSU - Spring 2025
 

@@ -10,7 +10,7 @@ Before pursuing graduate studies, I spent over five years in the software indust
  <br>
  <br>
  <b>Research:</b> I lead the <a href="stamlab.html">Software Testing and Maintenance</a> (STAM) Lab, where our research focuses on developing
-innovative tools and techniques to improve the efficiency, effectiveness, and reliability of test suites. Please check the selected publications below or our full list of <a href="publications.html">publications</a> to know more about our research.
+innovative tools and techniques to improve the quality (e.g., efficiency, effectiveness, reliability, and maintainability) of test suites. Please check the selected publications below or our full list of <a href="publications.html">publications</a> to know more about our research.
 <br>
 
 <br><b>Understanding Test Deletion in Java Applications</b> [<a href="papers/msr25.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/UnderstandingTestDeletion" target="_blank">Dataset</a>]

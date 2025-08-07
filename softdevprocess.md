@@ -34,6 +34,6 @@
 |             | 🏆 Assignment                                      | Assign-5                                                                                                                                |
 | 13th & 14th | 🔖 Software Testing                                | Slides                                                                                                                                      |
 |             | 🏆 Assignment                                      | Assign-6                                                                                                                                |
-| 14th & 15th | 🔖 Software Deployment and Maintenance             | Slides                                                                                                                                      |
+| 14th & 15th | 🔖 Software Deployment, Maintenance, and Evolution | Slides                                                                                                                                      |
 |             | 🏆 Assignment                                      | Assign-7                                                                                                                                |
 

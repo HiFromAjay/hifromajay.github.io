@@ -21,19 +21,19 @@
 |-------------|----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | 1st         | 🔖 Course Overview                                 | Slides                                                                                                                                      |
 | 2nd & 3rd   | 🔖 Project Identification, Selection, and Planning | <a href="https://docs.google.com/presentation/d/1O3vJXh2sZequb0sPPb8fLDvoYdnBtJjVMkkbo7ZFVxU/edit?usp=sharing" target="_blank">Slides</a>   |
-|             | 🏆 Assignment                                      | <a href="https://docs.google.com/document/d/13UyyI88Wv_f6qSsLirgPhHzEf0I-x4AbjXJQfnhpKfo/edit?usp=sharing" target="_blank">Assignment-1</a> |
+|             | 🏆 Assignment                                      | <a href="https://docs.google.com/document/d/13UyyI88Wv_f6qSsLirgPhHzEf0I-x4AbjXJQfnhpKfo/edit?usp=sharing" target="_blank">Assign-1</a> |
 | 3rd & 4th   | 🔖 Software Development Lifecycles                 | Slides                                                                                                                                      |
 | 5th & 6th   | 🔖 Agile: Extreme Programming and Scrum            | Slides                                                                                                                                      |
-|             | 🏆 Assignment                                      | <a href="https://docs.google.com/document/d/1SS7TylUzCdWzeD-bJ3L2bJbYnhgTCXQXoC_Une4jaq4/edit?usp=sharing" target="_blank">Assignment-2</a> |
+|             | 🏆 Assignment                                      | <a href="https://docs.google.com/document/d/1SS7TylUzCdWzeD-bJ3L2bJbYnhgTCXQXoC_Une4jaq4/edit?usp=sharing" target="_blank">Assign-2</a> |
 | 6th & 7th   | 🔖 DevOps                                          | Slides                                                                                                                                      |
-|             | 🏆 Assignment                                      | Assignment-3                                                                                                                                |
+|             | 🏆 Assignment                                      | Assign-3                                                                                                                                |
 | 8th & 9th   | 🔖 Requirement Engineering                         | Slides                                                                                                                                      |
 | 9th & 10th  | 🔖 Software Design: Architectural and Detailed     | Slides                                                                                                                                      |
-|             | 🏆 Assignment                                      | Assignment-4                                                                                                                                |
+|             | 🏆 Assignment                                      | Assign-4                                                                                                                                |
 | 11th & 12th | 🔖 Software Construction                           | Slides                                                                                                                                      |
-|             | 🏆 Assignment                                      | Assignment-5                                                                                                                                |
+|             | 🏆 Assignment                                      | Assign-5                                                                                                                                |
 | 13th & 14th | 🔖 Software Testing                                | Slides                                                                                                                                      |
-|             | 🏆 Assignment                                      | Assignment-6                                                                                                                                |
+|             | 🏆 Assignment                                      | Assign-6                                                                                                                                |
 | 14th & 15th | 🔖 Software Deployment and Maintenance             | Slides                                                                                                                                      |
-|             | 🏆 Assignment                                      | Assignment-7                                                                                                                                |
+|             | 🏆 Assignment                                      | Assign-7                                                                                                                                |
 

@@ -17,23 +17,23 @@
 </p>
 👉 Use your NDSU credentials to access the following contents:
 
-| 📅Week      | 📚Chapter                                          | 📁Content                                                                                                                                   | 
-|-------------|----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| 1st         | 🔖 Course Overview                                 | Slides                                                                                                                                      |
-| 2nd & 3rd   | 🔖 Project Identification, Selection, and Planning | <a href="https://docs.google.com/presentation/d/1O3vJXh2sZequb0sPPb8fLDvoYdnBtJjVMkkbo7ZFVxU/edit?usp=sharing" target="_blank">Slides</a>   |
-|             | 🏆 Assignment                                      | <a href="https://docs.google.com/document/d/13UyyI88Wv_f6qSsLirgPhHzEf0I-x4AbjXJQfnhpKfo/edit?usp=sharing" target="_blank">Assign-1</a> |
-| 3rd & 4th   | 🔖 Traditional (Plan-Driven) Methodologies         | Slides                                                                                                                                      |
-| 5th & 6th   | 🔖 Agile Methodologies                             | Slides                                                                                                                                      |
-|             | 🏆 Assignment                                      | <a href="https://docs.google.com/document/d/1SS7TylUzCdWzeD-bJ3L2bJbYnhgTCXQXoC_Une4jaq4/edit?usp=sharing" target="_blank">Assign-2</a> |
-| 6th & 7th   | 🔖 DevOps                                          | Slides                                                                                                                                      |
-|             | 🏆 Assignment                                      | Assign-3                                                                                                                                |
-| 8th & 9th   | 🔖 Requirement Engineering                         | Slides                                                                                                                                      |
-| 9th & 10th  | 🔖 Software Design: Architectural and Detailed     | Slides                                                                                                                                      |
-|             | 🏆 Assignment                                      | Assign-4                                                                                                                                |
-| 11th & 12th | 🔖 Software Construction                           | Slides                                                                                                                                      |
-|             | 🏆 Assignment                                      | Assign-5                                                                                                                                |
-| 13th & 14th | 🔖 Software Testing                                | Slides                                                                                                                                      |
-|             | 🏆 Assignment                                      | Assign-6                                                                                                                                |
-| 14th & 15th | 🔖 Software Deployment, Maintenance, and Evolution | Slides                                                                                                                                      |
-|             | 🏆 Assignment                                      | Assign-7                                                                                                                                |
+| 📅Week      | 📚Chapter                                               | 📁Content                                                                                                                                   | 
+|-------------|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| 1st         | 🔖 Course Overview                                      | Slides                                                                                                                                      |
+| 2nd & 3rd   | 🔖 Project Identification, Selection, and Planning      | <a href="https://docs.google.com/presentation/d/1O3vJXh2sZequb0sPPb8fLDvoYdnBtJjVMkkbo7ZFVxU/edit?usp=sharing" target="_blank">Slides</a>   |
+|             | 🏆 Assignment                                           | <a href="https://docs.google.com/document/d/13UyyI88Wv_f6qSsLirgPhHzEf0I-x4AbjXJQfnhpKfo/edit?usp=sharing" target="_blank">Assign-1</a> |
+| 3rd & 4th   | 🔖 Development Methodologies: Traditional (Plan-Driven) | Slides                                                                                                                                      |
+| 5th & 6th   | 🔖 Development Methodologies: Agile                     | Slides                                                                                                                                      |
+|             | 🏆 Assignment                                           | <a href="https://docs.google.com/document/d/1SS7TylUzCdWzeD-bJ3L2bJbYnhgTCXQXoC_Une4jaq4/edit?usp=sharing" target="_blank">Assign-2</a> |
+| 6th & 7th   | 🔖 Development Practice: DevOps                         | Slides                                                                                                                                      |
+|             | 🏆 Assignment                                           | Assign-3                                                                                                                                |
+| 8th & 9th   | 🔖 Requirement Engineering                              | Slides                                                                                                                                      |
+| 9th & 10th  | 🔖 Software Design: Architectural and Detailed          | Slides                                                                                                                                      |
+|             | 🏆 Assignment                                           | Assign-4                                                                                                                                |
+| 11th & 12th | 🔖 Software Construction                                | Slides                                                                                                                                      |
+|             | 🏆 Assignment                                           | Assign-5                                                                                                                                |
+| 13th & 14th | 🔖 Software Testing                                     | Slides                                                                                                                                      |
+|             | 🏆 Assignment                                           | Assign-6                                                                                                                                |
+| 14th & 15th | 🔖 Software Deployment, Maintenance, and Evolution      | Slides                                                                                                                                      |
+|             | 🏆 Assignment                                           | Assign-7                                                                                                                                |
 

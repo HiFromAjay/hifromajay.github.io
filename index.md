@@ -10,7 +10,7 @@ Before pursuing graduate studies, I spent over five years in the software indust
  <br>
  <br>
  <b>Research:</b> I lead the <a href="stamlab.html">Software Testing and Maintenance</a> (STAM) Lab, where our research focuses on developing
-innovative tools and techniques to improve the quality (e.g., efficiency, effectiveness, reliability, and maintainability) of test suites. Please check the selected publications below or our full list of <a href="publications.html">publications</a> to know more about our research.
+innovative tools and techniques to improve the quality of test suites. Please check the selected publications below or our full list of <a href="publications.html">publications</a> to know more about our research.
 <br>
 
 <br><b>An Empirical Study of Python Library Migration Using Large Language Models</b> [<a href="papers/llm_lib_mig25.pdf" target="_blank">Paper</a>]. Mohayeminul Islam, Ajay Kumar Jha, May Mahmoud, Ildar Akhmetov, and Sarah Nadi. In 40th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2025.

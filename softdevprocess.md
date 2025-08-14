@@ -21,7 +21,7 @@
 |-------------|----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | 1st         | 🔖 Course Overview                                 | <a href="https://docs.google.com/presentation/d/1UIrjQ6yi5ytBJATXIjBz4rrx4p9TMpu-cjUzvg-jzFU/edit?usp=sharing" target="_blank">Slides</a> |
 | 1st & 2nd   | 🔖 Software Development Process: An Introduction   | <a href="https://docs.google.com/presentation/d/1xmyOZ0OL-KlCqQTVQGVrmrPxFsoqG4HfLqyupNkMmoQ/edit?usp=sharing" target="_blank">Slides</a> |
-| 2nd & 3rd   | 🔖 Project Identification, Selection, and Planning | <a href="https://docs.google.com/presentation/d/1O3vJXh2sZequb0sPPb8fLDvoYdnBtJjVMkkbo7ZFVxU/edit?usp=sharing" target="_blank">Slides</a> |
+| 2nd & 3rd   | 🔖 Project Initiation and Planning                 | <a href="https://docs.google.com/presentation/d/1O3vJXh2sZequb0sPPb8fLDvoYdnBtJjVMkkbo7ZFVxU/edit?usp=sharing" target="_blank">Slides</a> |
 |             | 🏆 Assignment                                      | <a href="https://docs.google.com/document/d/13UyyI88Wv_f6qSsLirgPhHzEf0I-x4AbjXJQfnhpKfo/edit?usp=sharing" target="_blank">Assign-1</a>   |
 | 4th & 5th   | 🔖 Software Development Methodologies: Traditional | Slides                                                                                                                                    |
 | 5th & 6th   | 🔖 Software Development Methodologies: Agile       | Slides                                                                                                                                    |

@@ -2,13 +2,13 @@
 ### [Team](stamlab.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
 ***
 
-<b>Using LLMs for Library Migration</b> [<a href="papers/llm_lib_mig25.pdf" target="_blank">Paper</a>]
+<b>An Empirical Study of Python Library Migration Using Large Language Models</b> [<a href="papers/llm_lib_mig25.pdf" target="_blank">Paper</a>]
 <br>Mohayeminul Islam, Ajay Kumar Jha, May Mahmoud, Ildar Akhmetov, and Sarah Nadi
-<br>arXiv preprint arXiv:2504.13272, 2025.
+<br>In Proceedings of 40th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2025.
 
 <b>Understanding Test Deletion in Java Applications</b> [<a href="papers/msr25.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/UnderstandingTestDeletion" target="_blank">Dataset</a>] 
 <br>Suraj Bhatta, Frank Kendemah, Ajay Kumar Jha
-<br>In Proceedings of 22nd IEEE/ACM International Conference on Mining Software Repositories (MSR). 2025.
+<br>In Proceedings of 22nd IEEE/ACM International Conference on Mining Software Repositories (MSR), pp. 408-420, 2025.
 
 
 <b>Migrating Unit Tests Across Java Applications</b> [<a href="papers/scam24.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/JTestMigrator" target="_blank">Tool</a>] [<a href="https://docs.google.com/presentation/d/188pq3VdLkBIrre0ExEXy2mpdOqr2Pu7UVMyGVXK2iKw/edit?usp=sharing" target="_blank">Slides</a>]

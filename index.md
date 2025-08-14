@@ -13,20 +13,16 @@ Before pursuing graduate studies, I spent over five years in the software indust
 innovative tools and techniques to improve the quality (e.g., efficiency, effectiveness, reliability, and maintainability) of test suites. Please check the selected publications below or our full list of <a href="publications.html">publications</a> to know more about our research.
 <br>
 
-<br><b>An Empirical Study of Python Library Migration Using Large Language Models</b> [<a href="papers/llm_lib_mig25.pdf" target="_blank">Paper</a>]
-<br>Mohayeminul Islam, Ajay Kumar Jha, May Mahmoud, Ildar Akhmetov, and Sarah Nadi. In 40th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2025.
+<br><b>An Empirical Study of Python Library Migration Using Large Language Models</b> [<a href="papers/llm_lib_mig25.pdf" target="_blank">Paper</a>]. Mohayeminul Islam, Ajay Kumar Jha, May Mahmoud, Ildar Akhmetov, and Sarah Nadi. In 40th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2025.
 <br>
 
-<br><b>Understanding Test Deletion in Java Applications</b> [<a href="papers/msr25.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/UnderstandingTestDeletion" target="_blank">Dataset</a>]
-<br>Suraj Bhatta, Frank Kendemah, and Ajay Kumar Jha. In 22nd IEEE/ACM International Conference on Mining Software Repositories (MSR), pp. 408-420, 2025.
+<br><b>Understanding Test Deletion in Java Applications</b> [<a href="papers/msr25.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/UnderstandingTestDeletion" target="_blank">Dataset</a>]. Suraj Bhatta, Frank Kendemah, and Ajay Kumar Jha. In 22nd IEEE/ACM International Conference on Mining Software Repositories (MSR), pp. 408-420, 2025.
 <br>
 
-<br><b>Migrating Unit Tests Across Java Applications</b> [<a href="papers/scam24.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/JTestMigrator" target="_blank">Tool</a>] 
-<br>Ajay Kumar Jha and Sarah Nadi. In 24th IEEE International Conference on Source Code Analysis and Manipulation (SCAM). pp. 131-142. 2024.
+<br><b>Migrating Unit Tests Across Java Applications</b> [<a href="papers/scam24.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/JTestMigrator" target="_blank">Tool</a>]. Ajay Kumar Jha and Sarah Nadi. In 24th IEEE International Conference on Source Code Analysis and Manipulation (SCAM). pp. 131-142. 2024.
 <br>
 
-<br><b>TRec: A Regression Test Recommender for Java Projects</b> [<a href="papers/icsme24.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/TRec" target="_blank">Tool</a>] 
-<br>Sai Kiran Bhrugumalla and Ajay Kumar Jha. In 40th IEEE International Conference on Software Maintenance and Evolution (ICSME). pp. 903-907. 2024. 
+<br><b>TRec: A Regression Test Recommender for Java Projects</b> [<a href="papers/icsme24.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/TRec" target="_blank">Tool</a>]. Sai Kiran Bhrugumalla and Ajay Kumar Jha. In 40th IEEE International Conference on Software Maintenance and Evolution (ICSME). pp. 903-907. 2024. 
 <br>
 
 

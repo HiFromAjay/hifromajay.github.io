@@ -27,7 +27,7 @@
 | 5th & 6th   | 🔖 Software Development Methodologies: Agile       | Slides                                                                                                                                    |
 |             | 🏆 Assignment                                      | <a href="https://docs.google.com/document/d/1SS7TylUzCdWzeD-bJ3L2bJbYnhgTCXQXoC_Une4jaq4/edit?usp=sharing" target="_blank">Assign-2</a>   |
 | 7th & 8th   | 🔖 Software Development Practices: DevOps          | Slides                                                                                                                                    |
-|             | 🏆 Assignment                                      | Assign-3                                                                                                                                  |
+|             | 🏆 Assignment                                      | <a href="https://docs.google.com/document/d/10RDqB_cDXBDRXBktjIgtQ10PridGrLAvkyWMhSLs5lI/edit?usp=sharing" target="_blank">Assign-3</a>   |
 | 8th & 9th   | 🔖 Requirement Engineering                         | Slides                                                                                                                                    |
 | 9th & 10th  | 🔖 Software Design: Architectural and Detailed     | Slides                                                                                                                                    |
 |             | 🏆 Assignment                                      | Assign-4                                                                                                                                  |

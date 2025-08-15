@@ -23,10 +23,10 @@
 | 1st & 2nd   | 🔖 Software Development Process: An Introduction   | <a href="https://docs.google.com/presentation/d/1xmyOZ0OL-KlCqQTVQGVrmrPxFsoqG4HfLqyupNkMmoQ/edit?usp=sharing" target="_blank">Slides</a> |
 | 2nd & 3rd   | 🔖 Project Initiation and Planning                 | <a href="https://docs.google.com/presentation/d/1O3vJXh2sZequb0sPPb8fLDvoYdnBtJjVMkkbo7ZFVxU/edit?usp=sharing" target="_blank">Slides</a> |
 |             | 🏆 Assignment                                      | <a href="https://docs.google.com/document/d/13UyyI88Wv_f6qSsLirgPhHzEf0I-x4AbjXJQfnhpKfo/edit?usp=sharing" target="_blank">Assign-1</a>   |
-| 4th & 5th   | 🔖 Software Development Methodologies: Traditional | Slides                                                                                                                                    |
-| 5th & 6th   | 🔖 Software Development Methodologies: Agile       | Slides                                                                                                                                    |
+| 4th & 5th   | 🔖 Plan-driven Software Development                | Slides                                                                                                                                    |
+| 5th & 6th   | 🔖 Agile Software Development                      | Slides                                                                                                                                    |
 |             | 🏆 Assignment                                      | <a href="https://docs.google.com/document/d/1SS7TylUzCdWzeD-bJ3L2bJbYnhgTCXQXoC_Une4jaq4/edit?usp=sharing" target="_blank">Assign-2</a>   |
-| 7th & 8th   | 🔖 Software Development Practices: DevOps          | Slides                                                                                                                                    |
+| 7th & 8th   | 🔖 DevOps Software Development                     | Slides                                                                                                                                    |
 |             | 🏆 Assignment                                      | <a href="https://docs.google.com/document/d/10RDqB_cDXBDRXBktjIgtQ10PridGrLAvkyWMhSLs5lI/edit?usp=sharing" target="_blank">Assign-3</a>   |
 | 8th & 9th   | 🔖 Requirement Engineering                         | Slides                                                                                                                                    |
 | 9th & 10th  | 🔖 Software Design: Architectural and Detailed     | Slides                                                                                                                                    |

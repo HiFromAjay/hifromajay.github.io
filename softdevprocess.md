@@ -12,7 +12,7 @@
 </style>
 
 <p class="center" style="color:green;">
-<b>CSCI 713: Software Development Process</b> <br>
+<b>CSCI 713: Software Development Processes</b> <br>
 <b>Syllabus: <a href="teaching/syllabus/713SDP.pdf" target="_blank"><img src="assets/img/pdficon.png" width="15" height="15"></a></b> 
 </p>
 👉 Use your NDSU credentials to access the following contents:
@@ -20,7 +20,7 @@
 | 📅Week      | 📚Chapter                             | 📁Content                                                                                                                                 | 
 |-------------|---------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | 1st         | 🔖 Course Overview                    | <a href="https://docs.google.com/presentation/d/1UIrjQ6yi5ytBJATXIjBz4rrx4p9TMpu-cjUzvg-jzFU/edit?usp=sharing" target="_blank">Slides</a> |
-| 1st & 2nd   | 🔖 Software Development Process       | <a href="https://docs.google.com/presentation/d/1xmyOZ0OL-KlCqQTVQGVrmrPxFsoqG4HfLqyupNkMmoQ/edit?usp=sharing" target="_blank">Slides</a> |
+| 1st & 2nd   | 🔖 Software Development Processes     | <a href="https://docs.google.com/presentation/d/1xmyOZ0OL-KlCqQTVQGVrmrPxFsoqG4HfLqyupNkMmoQ/edit?usp=sharing" target="_blank">Slides</a> |
 | 2nd & 3rd   | 🔖 Project Initiation and Planning    | <a href="https://docs.google.com/presentation/d/1O3vJXh2sZequb0sPPb8fLDvoYdnBtJjVMkkbo7ZFVxU/edit?usp=sharing" target="_blank">Slides</a> |
 |             | 🏆 Assignment                         | <a href="https://docs.google.com/document/d/13UyyI88Wv_f6qSsLirgPhHzEf0I-x4AbjXJQfnhpKfo/edit?usp=sharing" target="_blank">Assign-1</a>   |
 | 4th & 5th   | 🔖 Plan-driven Software Development   | <a href="https://docs.google.com/presentation/d/1Zs-t5Nx76M8NLe6C9Y4WsS4TG0vKAPQFICgM91hMEJ8/edit?usp=sharing" target="_blank">Slides</a> |

@@ -26,7 +26,7 @@
 | 4th & 5th   | 🔖 Plan-driven Software Development   | <a href="https://docs.google.com/presentation/d/1Zs-t5Nx76M8NLe6C9Y4WsS4TG0vKAPQFICgM91hMEJ8/edit?usp=sharing" target="_blank">Slides</a> |
 | 5th & 6th   | 🔖 Agile Software Development         | <a href="https://docs.google.com/presentation/d/1ZBm9-Xv9yAi_3A4urGVE8rPu0vPEgs4eslYd2i-buGE/edit?usp=sharing" target="_blank">Slides</a> |
 |             | 🏆 Assignment                         | <a href="https://docs.google.com/document/d/1SS7TylUzCdWzeD-bJ3L2bJbYnhgTCXQXoC_Une4jaq4/edit?usp=sharing" target="_blank">Assign-2</a>   |
-| 7th & 8th   | 🔖 DevOps Software Development        | Slides                                                                                                                                    |
+| 7th & 8th   | 🔖 DevOps Software Development        | <a href="https://docs.google.com/presentation/d/180I6UlddapXlS3OZoGpp9XQfyTEmkZlnxlzEKL-j3Pk/edit?usp=sharing" target="_blank">Slides</a> |
 |             | 🏆 Assignment                         | <a href="https://docs.google.com/document/d/10RDqB_cDXBDRXBktjIgtQ10PridGrLAvkyWMhSLs5lI/edit?usp=sharing" target="_blank">Assign-3</a>   |
 | 8th & 9th   | 🔖 Requirement Engineering            | Slides                                                                                                                                    |
 | 9th & 10th  | 🔖 Software Design                    | Slides                                                                                                                                    |

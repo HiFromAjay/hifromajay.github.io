@@ -27,5 +27,6 @@
 
 #### 🤠 North Dakota State University:
 - <b>CS Scholarship Committee</b>: Member - Since 2023
+- <b>CoE Research & Graduate Committee</b>: Member - Since 2025
 - <b>CoE Library Committee</b>: Representative - Since 2024
 - <b>IRB Committee</b>: Alternate Member - Since 2023

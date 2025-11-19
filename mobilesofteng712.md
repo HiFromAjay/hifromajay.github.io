@@ -34,5 +34,4 @@
 | 12th&nbsp;-&nbsp;14th | 🔖 Mobile App Security: Vulnerabilities Prevention and Detection                              | <a href="https://docs.google.com/presentation/d/1NGNzAIHzMQ0Njyq0cNqwgA1sIuOAh3VVylYhDZ2Y9H8/edit?usp=sharing" target="_blank">Slides</a>      |
 |                       | 🏆 Assignment                                                                                 | <a href="https://docs.google.com/document/d/1sHDPdMzaRTPOUqgg8bJHSPTkmt6Ey3X_7lG83yf_4pY/edit?usp=sharing" target="_blank">Assignment-6</a>    |
 | 15th                  | 🏆 Final Project                                                                              | <a href="https://docs.google.com/document/d/1LG6y3Sodl2F2rChTg2Cq2kQGLcba41Pls-76AQ0p968/edit?usp=sharing" target="_blank">Final Project</a>   |
-| TBD                   | 👩‍🏫 Paper Presentation                                                                      | <a href="https://docs.google.com/document/d/1xhox-6TS0XvdC6PBS4PaxdLpNIlFH72iC81rg6GZb7Q/edit?usp=sharing" target="_blank">Assignment-7</a>    |
 

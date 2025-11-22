@@ -37,5 +37,4 @@
 | 13th & 14th | 🔖 Software Testing                   | <a href="https://docs.google.com/presentation/d/1DyMzB3fcfjlEvasJj4IfvWui8SiVk7e5/edit?usp=sharing&ouid=106022466401562746878&rtpof=true&sd=true" target="_blank">Old Slides</a> |
 |             | 🏆 Assignment                         | Assign-7                                                                                                                                                                         |
 | 14th & 15th | 🔖 Software Maintenance and Evolution | <a href="https://docs.google.com/presentation/d/1YugIkIw0jFYpE_NooCB-c4-4JjJvLweL/edit?usp=sharing&ouid=106022466401562746878&rtpof=true&sd=true" target="_blank">Old Slides</a> |
-|             | 🏆 Assignment                         | Assign-8                                                                                                                                                                         |
 

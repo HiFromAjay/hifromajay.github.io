@@ -35,6 +35,6 @@
 | 11th & 12th | 🔖 Software Construction              | <a href="https://docs.google.com/presentation/d/1El8T5HPud33vWPrVDlSDHwC344QgmPj5C9JbBCA-yqc/edit?usp=sharing" target="_blank">Slides</a> |
 |             | 🏆 Assignment                         | <a href="https://docs.google.com/document/d/1EQGigxm6jBfxWaXLQGdgUSqaDHQsw47-nlE8ljsJO88/edit?usp=sharing" target="_blank">Assign-6</a>   |
 | 13th & 14th | 🔖 Software Testing                   | <a href="https://docs.google.com/presentation/d/1i9QKkItVgQHgingR-07Vpq3PS8b3PVOnUeReCPo5xh0/edit?usp=sharing" target="_blank">Slides</a> |
-|             | 🏆 Assignment                         | Assign-7                                                                                                                                  |
+|             | 🏆 Assignment                         | <a href="https://docs.google.com/document/d/1VxYK4EMVv5Wttfy0ZN7XrvYm_8aj73oDT7eRB8oxrKg/edit?usp=sharing" target="_blank">Assign-7</a>   |
 | 14th & 15th | 🔖 Software Maintenance and Evolution | Slides                                                                                                                                    |
 

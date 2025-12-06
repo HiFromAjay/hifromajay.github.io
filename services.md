@@ -32,5 +32,3 @@
 - <b>CoE Library Committee</b>: Representative - Since 2024
 - <b>IRB Committee</b>: Alternate Member - Since 2023
 
-#### 📢 Talk
-- <a href="https://docs.google.com/presentation/d/1iKH1Jz-OPwnBh9Zufb5O1qiu4N08dnJ669vhGeqKX50/edit?usp=sharing" target="_blank">Improving Software Quality: Strategies, Techniques, and Tools for Test Evolution</a> <br>

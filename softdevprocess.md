@@ -28,13 +28,13 @@
 |             | 🏆 Assignment                         | <a href="https://docs.google.com/document/d/1SS7TylUzCdWzeD-bJ3L2bJbYnhgTCXQXoC_Une4jaq4/edit?usp=sharing" target="_blank">Assign-2</a>   |
 | 7th & 8th   | 🔖 DevOps Software Development        | <a href="https://docs.google.com/presentation/d/180I6UlddapXlS3OZoGpp9XQfyTEmkZlnxlzEKL-j3Pk/edit?usp=sharing" target="_blank">Slides</a> |
 |             | 🏆 Assignment                         | <a href="https://docs.google.com/document/d/10RDqB_cDXBDRXBktjIgtQ10PridGrLAvkyWMhSLs5lI/edit?usp=sharing" target="_blank">Assign-3</a>   |
-| 8th & 9th   | 🔖 Requirement Engineering            | <a href="https://docs.google.com/presentation/d/1esOgA08ofgrn5V-SFdgiKlFTlTA_KPMjcEaN_c_iTjA/edit?usp=sharing" target="_blank">Slides</a> |
+| 9th & 10th  | 🔖 Requirement Engineering            | <a href="https://docs.google.com/presentation/d/1esOgA08ofgrn5V-SFdgiKlFTlTA_KPMjcEaN_c_iTjA/edit?usp=sharing" target="_blank">Slides</a> |
 |             | 🏆 Assignment                         | <a href="https://docs.google.com/document/d/10eKzSCJpxqi7GxXCZ_D3F7rvQTtVAH_MeBw536O15Co/edit?usp=sharing" target="_blank">Assign-4</a>   |
-| 9th & 10th  | 🔖 Software Design                    | <a href="https://docs.google.com/presentation/d/1j73GbP0KFYgxuOuQhJ_TrmZ401dMHu3NYIvClVXCeig/edit?usp=sharing" target="_blank">Slides</a> |
+| 10th & 11th | 🔖 Software Design                    | <a href="https://docs.google.com/presentation/d/1j73GbP0KFYgxuOuQhJ_TrmZ401dMHu3NYIvClVXCeig/edit?usp=sharing" target="_blank">Slides</a> |
 |             | 🏆 Assignment                         | <a href="https://docs.google.com/document/d/1WVDhB55g1-X441JLlDPBgAdonYLAw6spNB-wTVufH7Y/edit?usp=sharing" target="_blank">Assign-5</a>   |
-| 11th & 12th | 🔖 Software Construction              | <a href="https://docs.google.com/presentation/d/1El8T5HPud33vWPrVDlSDHwC344QgmPj5C9JbBCA-yqc/edit?usp=sharing" target="_blank">Slides</a> |
+| 12th & 13th | 🔖 Software Construction              | <a href="https://docs.google.com/presentation/d/1El8T5HPud33vWPrVDlSDHwC344QgmPj5C9JbBCA-yqc/edit?usp=sharing" target="_blank">Slides</a> |
 |             | 🏆 Assignment                         | <a href="https://docs.google.com/document/d/1EQGigxm6jBfxWaXLQGdgUSqaDHQsw47-nlE8ljsJO88/edit?usp=sharing" target="_blank">Assign-6</a>   |
-| 13th & 14th | 🔖 Software Testing                   | <a href="https://docs.google.com/presentation/d/1i9QKkItVgQHgingR-07Vpq3PS8b3PVOnUeReCPo5xh0/edit?usp=sharing" target="_blank">Slides</a> |
+| 14th & 15th | 🔖 Software Testing                   | <a href="https://docs.google.com/presentation/d/1i9QKkItVgQHgingR-07Vpq3PS8b3PVOnUeReCPo5xh0/edit?usp=sharing" target="_blank">Slides</a> |
 |             | 🏆 Assignment                         | <a href="https://docs.google.com/document/d/1VxYK4EMVv5Wttfy0ZN7XrvYm_8aj73oDT7eRB8oxrKg/edit?usp=sharing" target="_blank">Assign-7</a>   |
-| 14th & 15th | 🔖 Software Maintenance and Evolution | Slides                                                                                                                                    |
+
 

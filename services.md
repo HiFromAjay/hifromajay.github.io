@@ -7,10 +7,11 @@
 - <b>ICSME</b>: International Conference on Software Maintenance and Evolution (Technical track) - 2024, 2025, 2026 
 - <b>EASE</b>: International Conference on Evaluation and Assessment in Software Engineering (EASE) (Research track) - 2026
 - <b>SANER</b>: International Conference on Software Analysis, Evolution and Reengineering (ERA or Tool track) - 2021, 2022, 2024
-- <b>ESEC/FSE</b>: Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (Artifact track) - 2021, 2022
+- <b>MobileSoft</b>: International Conference on Mobile Software Engineering and Systems (Research track) - 2022, 2023
+- <b>ICSE</b>: International Conference on Software Engineering (Demo track) - 2023
+- <b>FSE</b>: International Conference on the Foundations of Software Engineering (Artifact track) - 2021, 2022
 - <b>ASE</b>: International Conference on Automated Software Engineering (Artifact track) - 2021, 2022
-- <b>MobileSoft</b>: International Conference on Mobile Software Engineering and Systems (Research track) - 2022, 2023 
-- <b>ICSE</b>: International Conference on Software Engineering (Demo track) - 2023 
+ 
 
 
 #### 🤠 Reviewer:

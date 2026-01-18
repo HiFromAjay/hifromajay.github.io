@@ -8,7 +8,7 @@
 
 .centerImg {
   display: block;
-  margin-left: 170px;  
+  margin-left: 160px;  
 }
 
 </style>

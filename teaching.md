@@ -12,7 +12,7 @@
 
 📚 CSCI 783. Topics In Software Systems, NDSU - Spring 2023, 2024
 
-📚 CSCI 790. Graduate Seminars, NDSU<br>
+💡 CSCI 790. Graduate Seminars, NDSU<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ Optimizing Regression Test Suites - Spring 2024<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ LLMs for Software Testing and Maintenance - Fall 2024, Spring 2026<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ Code Smell and Refactoring - Spring 2025

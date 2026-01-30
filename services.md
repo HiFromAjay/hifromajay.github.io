@@ -33,5 +33,4 @@
 - <b>CoE Library Committee</b>: Representative - Since 2024
 - <b>IRB Committee</b>: Alternate Member - Since 2023
 
-#### 📢 Talk
-- Improving Software Quality: Strategies, Techniques, and Tools for Test Evolution - IEEE Siouxland Section Computer Society Speaker Event at SDSU on 12/5/2025<br>
+

@@ -17,6 +17,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ LLMs for Software Testing and Maintenance - Fall 2024, Spring 2026<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ Code Smell and Refactoring - Spring 2025
 
-📚 Invited Talks, NDSU<br>
+📢 Hosted Talks, NDSU<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ <a href="https://youtu.be/wyQNZNl50JA" target="_blank">10 Quotes that changed my Life</a> - 10/30/2025<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by Chris Ahlers, Director of Eng. at Microsoft, Fargo<br>
+
+📢 Invited Talks<br>
+- Improving Software Quality: Strategies, Techniques, and Tools for Test Evolution - IEEE Siouxland Section Computer Society Speaker Event at SDSU on 12/5/2025<br>

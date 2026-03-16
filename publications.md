@@ -1,7 +1,7 @@
 
 ### [Team](stamlab.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
 ***
-<b>Developer vs. DSpot vs. ChatGPT: A Comparative Study of JUnit Test Amplification</b> [<a href="papers/icst2026.pdf" target="_blank">Paper</a>]. David Onyango Owuor and Ajay Kumar Jha. In 19th IEEE International Conference on Software Testing, Verification and Validation (ICST), 2026. 
+<b>Developer vs. DSpot vs. ChatGPT: A Comparative Study of JUnit Test Amplification</b> [<a href="papers/icst2026.pdf" target="_blank">Paper</a>]. David Onyango Owuor and Ajay Kumar Jha. In <I>19th IEEE International Conference on Software Testing, Verification and Validation (ICST)</I>, 2026. 
 
 <b>An Empirical Study of Python Library Migration Using Large Language Models</b> [<a href="papers/llm_lib_mig25.pdf" target="_blank">Paper</a>]. Mohayeminul Islam, Ajay Kumar Jha, May Mahmoud, Ildar Akhmetov, and Sarah Nadi. In <I>40th IEEE/ACM International Conference on Automated Software Engineering (ASE)</I>, 2025.
 

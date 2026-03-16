@@ -3,7 +3,7 @@
 ***
 <b>Developer vs. DSpot vs. ChatGPT: A Comparative Study of JUnit Test Amplification</b> [<a href="papers/icst2026.pdf" target="_blank">Paper</a>]. David Owuor and Ajay Kumar Jha. In <I>19th IEEE International Conference on Software Testing, Verification and Validation (ICST)</I>, 2026. 
 
-<b>An Empirical Study of Python Library Migration Using Large Language Models</b> [<a href="papers/llm_lib_mig25.pdf" target="_blank">Paper</a>]. Mohayeminul Islam, Ajay Kumar Jha, May Mahmoud, Ildar Akhmetov, and Sarah Nadi. In <I>40th IEEE/ACM International Conference on Automated Software Engineering (ASE)</I>, 2025.
+<b>An Empirical Study of Python Library Migration Using Large Language Models</b> [<a href="papers/llm_lib_mig25.pdf" target="_blank">Paper</a>]. Mohayeminul Islam, Ajay Kumar Jha, May Mahmoud, Ildar Akhmetov, and Sarah Nadi. In <I>40th IEEE/ACM International Conference on Automated Software Engineering (ASE)</I>, pp. 867-879, 2025.
 
 <b>Understanding Test Deletion in Java Applications</b> [<a href="papers/msr25.pdf" target="_blank">Paper</a>] [<a href="https://github.com/STAM-NDSU/UnderstandingTestDeletion" target="_blank">Dataset</a>]. Suraj Bhatta, Frank Kendemah, and Ajay Kumar Jha. In <I>22nd IEEE/ACM International Conference on Mining Software Repositories (MSR)</I>, pp. 408-420, 2025.
 

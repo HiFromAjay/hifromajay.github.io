@@ -22,4 +22,4 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; by Chris Ahlers, Director of Eng. at Microsoft, Fargo<br>
 
 📢 Invited Talks<br>
-- Improving Software Quality: Strategies, Techniques, and Tools for Test Evolution - IEEE Siouxland Section Computer Society Speaker Event at SDSU on 12/5/2025<br>
+- <a href="https://docs.google.com/presentation/d/1iKH1Jz-OPwnBh9Zufb5O1qiu4N08dnJ669vhGeqKX50/edit?usp=sharing"  target="_blank">Improving Software Quality: Strategies, Techniques, and Tools for Test Evolution</a> - IEEE Siouxland Section Computer Society Speaker Event at SDSU on 12/5/2025<br>

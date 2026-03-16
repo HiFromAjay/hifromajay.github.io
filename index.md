@@ -12,7 +12,7 @@ Before pursuing graduate studies, I spent over five years in the software indust
  <b>Research:</b> I lead the <a href="stamlab.html">Software Testing and Maintenance</a> (STAM) Lab, where our research focuses on mining large-scale software repositories to uncover real-world issues in software quality, reliability, and maintainability, and on developing innovative tools and techniques to address these challenges. Please check the selected publications below or our full list of <a href="publications.html">publications</a> to know more about our research.
 <br>
 
-<br><b>Developer vs. DSpot vs. ChatGPT: A Comparative Study of JUnit Test Amplification</b> [<a href="papers/icst2026.pdf" target="_blank">Paper</a>]. David Onyango Owuor and Ajay Kumar Jha. In <I>19th IEEE International Conference on Software Testing, Verification and Validation (ICST)</I>, 2026.
+<br><b>Developer vs. DSpot vs. ChatGPT: A Comparative Study of JUnit Test Amplification</b> [<a href="papers/icst2026.pdf" target="_blank">Paper</a>]. David Owuor and Ajay Kumar Jha. In <I>19th IEEE International Conference on Software Testing, Verification and Validation (ICST)</I>, 2026.
 <br>
 
 <br><b>An Empirical Study of Python Library Migration Using Large Language Models</b> [<a href="papers/llm_lib_mig25.pdf" target="_blank">Paper</a>]. Mohayeminul Islam, Ajay Kumar Jha, May Mahmoud, Ildar Akhmetov, and Sarah Nadi. In 40th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2025.

@@ -5,7 +5,7 @@
 Prior to joining NDSU, I worked as a Postdoctoral Researcher for over two years at the University of Alberta and three years at Kyungpook National University. 
 I earned both my Master’s (2013) and Ph.D. (2017) from Kyungpook National University. 
 Before pursuing graduate studies, I spent over five years in the software industry, where I co-founded two startups and served as a business development manager in two organizations.
- 
+<br> 
 I received the NSF CAREER Award in 2026. I have also served as a session chair, program committee member, and reviewer for conferences and journals, 
   including MSR, ICSME, IEEE TSE, and ACM TOSEM. Further details are available in my <a href="doc/CV_Ajay.pdf" target="_blank"><b>CV</b></a> (Updated March 20, 2026).
  <br>

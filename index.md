@@ -1,7 +1,7 @@
 
 ### [Team](stamlab.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Publication](publications.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Service](services.md) &nbsp;&nbsp;🌴&nbsp;&nbsp; [Teaching](teaching.md)
 ***
-<div style="text-align: justify"> <b>Bio:</b> I am an Assistant Professor at North Dakota State University. 
+<div style="text-align: justify"> <b>Bio:</b> I am a tenure-track Assistant Professor at North Dakota State University. 
 Prior to joining NDSU, I worked as a Postdoctoral Researcher for over two years at the University of Alberta and three years at Kyungpook National University. 
 I earned both my Master’s (2013) and Ph.D. (2017) from Kyungpook National University. 
 Before pursuing graduate studies, I spent over five years in the software industry, where I co-founded two startups and served as a business development manager in two organizations.<br>

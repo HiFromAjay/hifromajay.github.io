@@ -15,7 +15,8 @@
 💡 CSCI 790. Graduate Seminars, NDSU<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ Optimizing Regression Test Suites - Spring 2024<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ LLMs for Software Testing and Maintenance - Fall 2024, Spring 2026<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ Code Smell and Refactoring - Spring 2025
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ Code Smell and Refactoring - Spring 2025<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ LLM Agents for Software Engineering - Spring 2027
 
 📢 Hosted Talks, NDSU<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⭐ <a href="https://youtu.be/wyQNZNl50JA" target="_blank">10 Quotes that changed my Life</a> - 10/30/2025<br>
